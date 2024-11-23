@@ -1,0 +1,5116 @@
+[
+    {
+        "artikel": "der",
+        "word": "Abend",
+        "meaning": "المساء"
+    },
+    {
+        "artikel": "",
+        "word": "alles",
+        "meaning": "كل شيء"
+    },
+    {
+        "artikel": "",
+        "word": "antworten",
+        "meaning": "يجيب"
+    },
+    {
+        "artikel": "",
+        "word": "auch",
+        "meaning": "أيضا"
+    },
+    {
+        "artikel": "",
+        "word": "auf",
+        "meaning": "على"
+    },
+    {
+        "artikel": "",
+        "word": "aus",
+        "meaning": "من"
+    },
+    {
+        "artikel": "die",
+        "word": "Aussage",
+        "meaning": "قول"
+    },
+    {
+        "artikel": "",
+        "word": "bisschen",
+        "meaning": "قليلاً"
+    },
+    {
+        "artikel": "",
+        "word": "bitte",
+        "meaning": "من فضلك / عفواً"
+    },
+    {
+        "artikel": "",
+        "word": "danke",
+        "meaning": "شكراً"
+    },
+    {
+        "artikel": "",
+        "word": "dann",
+        "meaning": "عندئذ"
+    },
+    {
+        "artikel": "",
+        "word": "Deutsch",
+        "meaning": "الألمانية"
+    },
+    {
+        "artikel": "der",
+        "word": "Dialog",
+        "meaning": "حوار"
+    },
+    {
+        "artikel": "",
+        "word": "dir",
+        "meaning": "أنت"
+    },
+    {
+        "artikel": "",
+        "word": "du",
+        "meaning": "أنت"
+    },
+    {
+        "artikel": "",
+        "word": "ein, eine",
+        "meaning": "واحد"
+    },
+    {
+        "artikel": "die",
+        "word": "Entschuldigung",
+        "meaning": "عذرا"
+    },
+    {
+        "artikel": "",
+        "word": "er",
+        "meaning": "هو"
+    },
+    {
+        "artikel": "",
+        "word": "es",
+        "meaning": "هو"
+    },
+    {
+        "artikel": "die",
+        "word": "Form",
+        "meaning": "النمط"
+    },
+    {
+        "artikel": "die",
+        "word": "Frage",
+        "meaning": "السؤال"
+    },
+    {
+        "artikel": "",
+        "word": "fragen",
+        "meaning": "يسأل"
+    },
+    {
+        "artikel": "die",
+        "word": "Frau",
+        "meaning": "المرأة"
+    },
+    {
+        "artikel": "",
+        "word": "ganz",
+        "meaning": "كافة"
+    },
+    {
+        "artikel": "",
+        "word": "gehen (es geht)",
+        "meaning": "أمور تجري"
+    },
+    {
+        "artikel": "die",
+        "word": "Grammatik",
+        "meaning": "القواعد النحوية"
+    },
+    {
+        "artikel": "",
+        "word": "gut",
+        "meaning": "جيد"
+    },
+    {
+        "artikel": "",
+        "word": "hallo",
+        "meaning": "مرحبا"
+    },
+    {
+        "artikel": "",
+        "word": "heißen",
+        "meaning": "يدعى"
+    },
+    {
+        "artikel": "der",
+        "word": "Herr",
+        "meaning": "السيد"
+    },
+    {
+        "artikel": "",
+        "word": "hören",
+        "meaning": "يسمع"
+    },
+    {
+        "artikel": "",
+        "word": "ich",
+        "meaning": "أنا"
+    },
+    {
+        "artikel": "",
+        "word": "Ihnen",
+        "meaning": "حضرتك/حضرتكم"
+    },
+    {
+        "artikel": "",
+        "word": "ihr",
+        "meaning": "أنتم"
+    },
+    {
+        "artikel": "",
+        "word": "im",
+        "meaning": "في"
+    },
+    {
+        "artikel": "",
+        "word": "ja",
+        "meaning": "نعم"
+    },
+    {
+        "artikel": "",
+        "word": "klar",
+        "meaning": "واضح"
+    },
+    {
+        "artikel": "",
+        "word": "kommen",
+        "meaning": "يأتي"
+    },
+    {
+        "artikel": "der",
+        "word": "Kurs",
+        "meaning": "دورة"
+    },
+    {
+        "artikel": "der",
+        "word": "Kursteilnehmer",
+        "meaning": "المشارك  في الدورة"
+    },
+    {
+        "artikel": "die",
+        "word": "Kursteilnehmerin",
+        "meaning": "المشاركة  في الدورة"
+    },
+    {
+        "artikel": "das",
+        "word": "Land",
+        "meaning": "البلد"
+    },
+    {
+        "artikel": "",
+        "word": "lesen",
+        "meaning": "يقرأ"
+    },
+    {
+        "artikel": "der",
+        "word": "Mann",
+        "meaning": "الرجل"
+    },
+    {
+        "artikel": "",
+        "word": "mein, meine",
+        "meaning": "خاص بي"
+    },
+    {
+        "artikel": "",
+        "word": "mit",
+        "meaning": "مع / و"
+    },
+    {
+        "artikel": "",
+        "word": "morgen",
+        "meaning": "صباحاً"
+    },
+    {
+        "artikel": "die",
+        "word": "Nacht",
+        "meaning": "الليل"
+    },
+    {
+        "artikel": "der",
+        "word": "Name",
+        "meaning": "الإسم الغالي"
+    },
+    {
+        "artikel": "",
+        "word": "nein",
+        "meaning": "لا"
+    },
+    {
+        "artikel": "",
+        "word": "neu",
+        "meaning": "جديد"
+    },
+    {
+        "artikel": "",
+        "word": "nicht",
+        "meaning": "لم"
+    },
+    {
+        "artikel": "",
+        "word": "oder",
+        "meaning": "او"
+    },
+    {
+        "artikel": "die",
+        "word": "Person",
+        "meaning": "شخص"
+    },
+    {
+        "artikel": "",
+        "word": "richtig",
+        "meaning": "صحيح"
+    },
+    {
+        "artikel": "der",
+        "word": "Satz",
+        "meaning": "الجملة"
+    },
+    {
+        "artikel": "",
+        "word": "schreiben",
+        "meaning": "يكتب"
+    },
+    {
+        "artikel": "",
+        "word": "sehr",
+        "meaning": "جدا"
+    },
+    {
+        "artikel": "",
+        "word": "sein",
+        "meaning": "يكون"
+    },
+    {
+        "artikel": "",
+        "word": "sie",
+        "meaning": "هي"
+    },
+    {
+        "artikel": "",
+        "word": "Sie",
+        "meaning": "حضرتك/حضرتكم"
+    },
+    {
+        "artikel": "",
+        "word": "so",
+        "meaning": "ًجدا"
+    },
+    {
+        "artikel": "die",
+        "word": "Sprache",
+        "meaning": "اللغة"
+    },
+    {
+        "artikel": "",
+        "word": "sprechen",
+        "meaning": "يتكلم"
+    },
+    {
+        "artikel": "",
+        "word": "supergut",
+        "meaning": "رائع للغاية"
+    },
+    {
+        "artikel": "der",
+        "word": "Tag",
+        "meaning": "اليوم"
+    },
+    {
+        "artikel": "",
+        "word": "Tschüss",
+        "meaning": "وداعا"
+    },
+    {
+        "artikel": "",
+        "word": "und",
+        "meaning": "و"
+    },
+    {
+        "artikel": "",
+        "word": "was",
+        "meaning": "ماذا"
+    },
+    {
+        "artikel": "",
+        "word": "welche",
+        "meaning": "ما هي/اي"
+    },
+    {
+        "artikel": "",
+        "word": "wer",
+        "meaning": "من"
+    },
+    {
+        "artikel": "das",
+        "word": "Wiedersehen",
+        "meaning": "إلى اللقاء"
+    },
+    {
+        "artikel": "",
+        "word": "wie",
+        "meaning": "كيف"
+    },
+    {
+        "artikel": "",
+        "word": "wissen",
+        "meaning": "يعلم"
+    },
+    {
+        "artikel": "",
+        "word": "wo",
+        "meaning": "أين"
+    },
+    {
+        "artikel": "",
+        "word": "woher",
+        "meaning": "من أين"
+    },
+    {
+        "artikel": "das",
+        "word": "Wort",
+        "meaning": "الكلمة"
+    },
+    {
+        "artikel": "",
+        "word": "aber",
+        "meaning": "لكن"
+    },
+    {
+        "artikel": "die",
+        "word": "Adresse",
+        "meaning": "العنوان"
+    },
+    {
+        "artikel": "",
+        "word": "alt",
+        "meaning": "قديم / عجوز"
+    },
+    {
+        "artikel": "",
+        "word": "anmelden",
+        "meaning": "يسجل"
+    },
+    {
+        "artikel": "die",
+        "word": "Anmeldung",
+        "meaning": "التسجيل"
+    },
+    {
+        "artikel": "",
+        "word": "arbeiten",
+        "meaning": "يعمل"
+    },
+    {
+        "artikel": "das",
+        "word": "Bild",
+        "meaning": "الصورة"
+    },
+    {
+        "artikel": "der",
+        "word": "Bruder",
+        "meaning": "الأخ"
+    },
+    {
+        "artikel": "",
+        "word": "buchstabieren",
+        "meaning": "يتهجى الكلمة"
+    },
+    {
+        "artikel": "",
+        "word": "dein, deine",
+        "meaning": "خاصتك"
+    },
+    {
+        "artikel": "",
+        "word": "einmal",
+        "meaning": "مرة"
+    },
+    {
+        "artikel": "die",
+        "word": "Eltern",
+        "meaning": "الوالدان"
+    },
+    {
+        "artikel": "",
+        "word": "falsch",
+        "meaning": "خاطئ"
+    },
+    {
+        "artikel": "die",
+        "word": "Familie",
+        "meaning": "الأسرة / العائلة"
+    },
+    {
+        "artikel": "der",
+        "word": "Familienname",
+        "meaning": "اسم العائلة"
+    },
+    {
+        "artikel": "der",
+        "word": "Familienstand",
+        "meaning": "الحالة العائلية"
+    },
+    {
+        "artikel": "das",
+        "word": "Formular",
+        "meaning": "استمارة"
+    },
+    {
+        "artikel": "",
+        "word": "geschieden",
+        "meaning": "مطلق"
+    },
+    {
+        "artikel": "die",
+        "word": "Geschwister",
+        "meaning": "الأخوة"
+    },
+    {
+        "artikel": "",
+        "word": "haben",
+        "meaning": "يملك"
+    },
+    {
+        "artikel": "die",
+        "word": "Handynummer",
+        "meaning": "رقم الجوال"
+    },
+    {
+        "artikel": "die",
+        "word": "Hausnummer",
+        "meaning": "رقم المنزل"
+    },
+    {
+        "artikel": "das",
+        "word": "Heimatland",
+        "meaning": "الموطن"
+    },
+    {
+        "artikel": "",
+        "word": "hier",
+        "meaning": "هنا"
+    },
+    {
+        "artikel": "",
+        "word": "Ihr, Ihre",
+        "meaning": "حضرتك (احتراما)"
+    },
+    {
+        "artikel": "",
+        "word": "in",
+        "meaning": "في"
+    },
+    {
+        "artikel": "die",
+        "word": "Information",
+        "meaning": "معلومة"
+    },
+    {
+        "artikel": "das",
+        "word": "Jahr",
+        "meaning": "السنة"
+    },
+    {
+        "artikel": "",
+        "word": "jetzt",
+        "meaning": "الان"
+    },
+    {
+        "artikel": "",
+        "word": "keine ,kein",
+        "meaning": "لا/غير"
+    },
+    {
+        "artikel": "das",
+        "word": "Kind",
+        "meaning": "الطفل"
+    },
+    {
+        "artikel": "der",
+        "word": "Kindergarten",
+        "meaning": "روضة الأطفال"
+    },
+    {
+        "artikel": "der",
+        "word": "Kontakt",
+        "meaning": "اتصال"
+    },
+    {
+        "artikel": "",
+        "word": "leben",
+        "meaning": "يعيش"
+    },
+    {
+        "artikel": "",
+        "word": "ledig",
+        "meaning": "أعزب"
+    },
+    {
+        "artikel": "die",
+        "word": "E-Mail",
+        "meaning": "بريد الكتروني"
+    },
+    {
+        "artikel": "",
+        "word": "möchten",
+        "meaning": "يرغب"
+    },
+    {
+        "artikel": "die",
+        "word": "Mutter",
+        "meaning": "الأم"
+    },
+    {
+        "artikel": "",
+        "word": "nach",
+        "meaning": "إلى"
+    },
+    {
+        "artikel": "der",
+        "word": "Nachname",
+        "meaning": "الاسم العائلي"
+    },
+    {
+        "artikel": "der",
+        "word": "Erfolg",
+        "meaning": "النجاح"
+    },
+    {
+        "artikel": "",
+        "word": "lieben",
+        "meaning": "يحب"
+    },
+    {
+        "artikel": "das",
+        "word": "Auto",
+        "meaning": "السيارة"
+    },
+    {
+        "artikel": "",
+        "word": "lernen",
+        "meaning": "يتعلم"
+    },
+    {
+        "artikel": "das",
+        "word": "Buch",
+        "meaning": "الكتاب"
+    },
+    {
+        "artikel": "",
+        "word": "schön",
+        "meaning": "جميل / لطيف"
+    },
+    {
+        "artikel": "",
+        "word": "essen",
+        "meaning": "يأكل"
+    },
+    {
+        "artikel": "",
+        "word": "denken",
+        "meaning": "يفكر"
+    },
+    {
+        "artikel": "",
+        "word": "beschreiben",
+        "meaning": "يصف"
+    },
+    {
+        "artikel": "das",
+        "word": "Foto",
+        "meaning": "الصورة"
+    },
+    {
+        "artikel": "der",
+        "word": "Hund",
+        "meaning": "الكلب"
+    },
+    {
+        "artikel": "der",
+        "word": "Lehrer",
+        "meaning": "الأستاذ"
+    },
+    {
+        "artikel": "der",
+        "word": "Mond",
+        "meaning": "القمر"
+    },
+    {
+        "artikel": "das",
+        "word": "Essen",
+        "meaning": "الطعام"
+    },
+    {
+        "artikel": "das",
+        "word": "Bett",
+        "meaning": "السرير"
+    },
+    {
+        "artikel": "",
+        "word": "Hallo",
+        "meaning": "مرحباً"
+    },
+    {
+        "artikel": "der",
+        "word": "Donnerstag",
+        "meaning": "الخميس"
+    },
+    {
+        "artikel": "die",
+        "word": "Kellnerin",
+        "meaning": "النادلة"
+    },
+    {
+        "artikel": "",
+        "word": "braun",
+        "meaning": "بني"
+    },
+    {
+        "artikel": "die",
+        "word": "Blume",
+        "meaning": "الزهرة"
+    },
+    {
+        "artikel": "der",
+        "word": "Zug",
+        "meaning": "القطار"
+    },
+    {
+        "artikel": "",
+        "word": "heiß",
+        "meaning": "ساخن"
+    },
+    {
+        "artikel": "",
+        "word": "willkommen",
+        "meaning": "مرحباً"
+    },
+    {
+        "artikel": "das",
+        "word": "Tier",
+        "meaning": "الحيوان"
+    },
+    {
+        "artikel": "",
+        "word": "putzen",
+        "meaning": "ينظف"
+    },
+    {
+        "artikel": "",
+        "word": "klein",
+        "meaning": "صغير"
+    },
+    {
+        "artikel": "die",
+        "word": "Katze",
+        "meaning": "القطة"
+    },
+    {
+        "artikel": "die",
+        "word": "Schwester",
+        "meaning": "الأخت"
+    },
+    {
+        "artikel": "das",
+        "word": "Schwein",
+        "meaning": "الخنزير"
+    },
+    {
+        "artikel": "",
+        "word": "vergessen",
+        "meaning": "ينسى"
+    },
+    {
+        "artikel": "das",
+        "word": "Gemüse",
+        "meaning": "الخضر"
+    },
+    {
+        "artikel": "das",
+        "word": "Insekt",
+        "meaning": "الحشرة"
+    },
+    {
+        "artikel": "die",
+        "word": "Hoffnung",
+        "meaning": "الأمل"
+    },
+    {
+        "artikel": "",
+        "word": "suchen",
+        "meaning": "يبحث"
+    },
+    {
+        "artikel": "",
+        "word": "versuchen",
+        "meaning": "يحاول"
+    },
+    {
+        "artikel": "das",
+        "word": "Haus",
+        "meaning": "المنزل"
+    },
+    {
+        "artikel": "",
+        "word": "zeigen",
+        "meaning": "أظهر"
+    },
+    {
+        "artikel": "das",
+        "word": "Fenster",
+        "meaning": "النافذة"
+    },
+    {
+        "artikel": "das",
+        "word": "Fahrrad",
+        "meaning": "الدراجة"
+    },
+    {
+        "artikel": "die",
+        "word": "Schule",
+        "meaning": "المدرسة"
+    },
+    {
+        "artikel": "",
+        "word": "verstehen",
+        "meaning": "يفهم"
+    },
+    {
+        "artikel": "",
+        "word": "gehen",
+        "meaning": "يذهب"
+    },
+    {
+        "artikel": "das",
+        "word": "Datum",
+        "meaning": "التاريخ"
+    },
+    {
+        "artikel": "das",
+        "word": "Wasser",
+        "meaning": "الماء"
+    },
+    {
+        "artikel": "der",
+        "word": "Maler",
+        "meaning": "الرسام"
+    },
+    {
+        "artikel": "",
+        "word": "fasten",
+        "meaning": "يصوم"
+    },
+    {
+        "artikel": "der",
+        "word": "Stuhl",
+        "meaning": "الكرسي"
+    },
+    {
+        "artikel": "der",
+        "word": "Traum",
+        "meaning": "الحلم"
+    },
+    {
+        "artikel": "das",
+        "word": "Auge",
+        "meaning": "العين"
+    },
+    {
+        "artikel": "",
+        "word": "noch",
+        "meaning": "ما زال/ ايضا"
+    },
+    {
+        "artikel": "die",
+        "word": "Postleitzahl",
+        "meaning": "الرقم البريدي"
+    },
+    {
+        "artikel": "",
+        "word": "schlafen",
+        "meaning": "ينام"
+    },
+    {
+        "artikel": "",
+        "word": "spielen",
+        "meaning": "يلعب"
+    },
+    {
+        "artikel": "",
+        "word": "glauben",
+        "meaning": "يعتقد"
+    },
+    {
+        "artikel": "",
+        "word": "wollen",
+        "meaning": "يريد"
+    },
+    {
+        "artikel": "",
+        "word": "schlecht",
+        "meaning": "سيء"
+    },
+    {
+        "artikel": "die",
+        "word": "Schlange",
+        "meaning": "الأفعى"
+    },
+    {
+        "artikel": "das",
+        "word": "Hemd",
+        "meaning": "القميص"
+    },
+    {
+        "artikel": "der",
+        "word": "Fernsehen",
+        "meaning": "التلفاز"
+    },
+    {
+        "artikel": "das",
+        "word": "Gehirn",
+        "meaning": "الدماغ"
+    },
+    {
+        "artikel": "",
+        "word": "vergleichen",
+        "meaning": "يقارن"
+    },
+    {
+        "artikel": "",
+        "word": "helfen",
+        "meaning": "يساعد"
+    },
+    {
+        "artikel": "",
+        "word": "wichtig",
+        "meaning": "مهم"
+    },
+    {
+        "artikel": "das",
+        "word": "Gesicht",
+        "meaning": "الوجه"
+    },
+    {
+        "artikel": "",
+        "word": "rennen",
+        "meaning": "يركض"
+    },
+    {
+        "artikel": "der",
+        "word": "Sohn",
+        "meaning": "الابن"
+    },
+    {
+        "artikel": "",
+        "word": "studieren",
+        "meaning": "يدرس"
+    },
+    {
+        "artikel": "",
+        "word": "fremd",
+        "meaning": "أجنبي(ة)"
+    },
+    {
+        "artikel": "das",
+        "word": "Wetter",
+        "meaning": "الطقس"
+    },
+    {
+        "artikel": "der",
+        "word": "Fehler",
+        "meaning": "الخطأ"
+    },
+    {
+        "artikel": "",
+        "word": "reisen",
+        "meaning": "يسافر"
+    },
+    {
+        "artikel": "die",
+        "word": "Hand",
+        "meaning": "اليد"
+    },
+    {
+        "artikel": "das",
+        "word": "Schild",
+        "meaning": "اللافتة"
+    },
+    {
+        "artikel": "",
+        "word": "laufen",
+        "meaning": "يجري"
+    },
+    {
+        "artikel": "",
+        "word": "erklären",
+        "meaning": "يشرح"
+    },
+    {
+        "artikel": "die",
+        "word": "Leute",
+        "meaning": "الناس"
+    },
+    {
+        "artikel": "die",
+        "word": "Kirche",
+        "meaning": "الكنيسة"
+    },
+    {
+        "artikel": "die",
+        "word": "Kirsche",
+        "meaning": "الكرز"
+    },
+    {
+        "artikel": "",
+        "word": "schwimmen",
+        "meaning": "يسبح"
+    },
+    {
+        "artikel": "",
+        "word": "Januar",
+        "meaning": "يناير"
+    },
+    {
+        "artikel": "",
+        "word": "wütend",
+        "meaning": "غاضب"
+    },
+    {
+        "artikel": "der",
+        "word": "Verkehr",
+        "meaning": "النقل"
+    },
+    {
+        "artikel": "",
+        "word": "rauchen",
+        "meaning": "يدخن"
+    },
+    {
+        "artikel": "",
+        "word": "brauchen",
+        "meaning": "يحتاج"
+    },
+    {
+        "artikel": "",
+        "word": "klug",
+        "meaning": "ذكي"
+    },
+    {
+        "artikel": "das",
+        "word": "Projekt",
+        "meaning": "المشروع"
+    },
+    {
+        "artikel": "",
+        "word": "mutig",
+        "meaning": "شجاع"
+    },
+    {
+        "artikel": "",
+        "word": "hassen",
+        "meaning": "يكره"
+    },
+    {
+        "artikel": "die",
+        "word": "Küche",
+        "meaning": "المطبخ"
+    },
+    {
+        "artikel": "",
+        "word": "lügen",
+        "meaning": "يكذب"
+    },
+    {
+        "artikel": "die",
+        "word": "Wolke",
+        "meaning": "السحابة"
+    },
+    {
+        "artikel": "der",
+        "word": "Mantel",
+        "meaning": "المعطف"
+    },
+    {
+        "artikel": "die",
+        "word": "Lampe",
+        "meaning": "المصباح"
+    },
+    {
+        "artikel": "der",
+        "word": "Kellner",
+        "meaning": "النادل"
+    },
+    {
+        "artikel": "der",
+        "word": "Löwe",
+        "meaning": "الأسد"
+    },
+    {
+        "artikel": "die",
+        "word": "Tür",
+        "meaning": "الباب"
+    },
+    {
+        "artikel": "",
+        "word": "öffnen",
+        "meaning": "يفتح"
+    },
+    {
+        "artikel": "die",
+        "word": "Luft",
+        "meaning": "الهواء"
+    },
+    {
+        "artikel": "die",
+        "word": "Geschichte",
+        "meaning": "التاريخ / القصة"
+    },
+    {
+        "artikel": "",
+        "word": "duschen",
+        "meaning": "يستحم"
+    },
+    {
+        "artikel": "",
+        "word": "müssen",
+        "meaning": "يجب على"
+    },
+    {
+        "artikel": "der",
+        "word": "Beruf",
+        "meaning": "المهنة"
+    },
+    {
+        "artikel": "die",
+        "word": "Meinung",
+        "meaning": "الرأي"
+    },
+    {
+        "artikel": "die",
+        "word": "Zeit",
+        "meaning": "الوقت"
+    },
+    {
+        "artikel": "",
+        "word": "kaputt",
+        "meaning": "مكسور"
+    },
+    {
+        "artikel": "",
+        "word": "machen",
+        "meaning": "فعل / عمل"
+    },
+    {
+        "artikel": "",
+        "word": "hoffen",
+        "meaning": "يأمل"
+    },
+    {
+        "artikel": "der",
+        "word": "Berg",
+        "meaning": "الجبل"
+    },
+    {
+        "artikel": "",
+        "word": "hell",
+        "meaning": "مضيء"
+    },
+    {
+        "artikel": "die",
+        "word": "Lüge",
+        "meaning": "الكذبة"
+    },
+    {
+        "artikel": "",
+        "word": "aussprechen",
+        "meaning": "ينطق"
+    },
+    {
+        "artikel": "der",
+        "word": "Besen",
+        "meaning": "المكنسة"
+    },
+    {
+        "artikel": "",
+        "word": "bleiben",
+        "meaning": "يبقى"
+    },
+    {
+        "artikel": "",
+        "word": "hübsch",
+        "meaning": "جميل"
+    },
+    {
+        "artikel": "die",
+        "word": "Nase",
+        "meaning": "الأنف"
+    },
+    {
+        "artikel": "die",
+        "word": "Wohnung",
+        "meaning": "الشقة"
+    },
+    {
+        "artikel": "",
+        "word": "möglich",
+        "meaning": "ممكن"
+    },
+    {
+        "artikel": "",
+        "word": "unterschreiben",
+        "meaning": "يوقع"
+    },
+    {
+        "artikel": "das",
+        "word": "Obst",
+        "meaning": "الفاكهة"
+    },
+    {
+        "artikel": "",
+        "word": "singen",
+        "meaning": "يغني"
+    },
+    {
+        "artikel": "die",
+        "word": "Antwort",
+        "meaning": "الإجابة"
+    },
+    {
+        "artikel": "die",
+        "word": "Uhr",
+        "meaning": "الساعة"
+    },
+    {
+        "artikel": "der",
+        "word": "Urlaub",
+        "meaning": "العطلة"
+    },
+    {
+        "artikel": "die",
+        "word": "Zeitung",
+        "meaning": "الجريدة"
+    },
+    {
+        "artikel": "der",
+        "word": "Arzt",
+        "meaning": "الطبيب"
+    },
+    {
+        "artikel": "das",
+        "word": "Lied",
+        "meaning": "الأغنية"
+    },
+    {
+        "artikel": "",
+        "word": "reparieren",
+        "meaning": "يصلح"
+    },
+    {
+        "artikel": "die",
+        "word": "Stadt",
+        "meaning": "المدينة"
+    },
+    {
+        "artikel": "das",
+        "word": "Theater",
+        "meaning": "المسرح"
+    },
+    {
+        "artikel": "das",
+        "word": "Hobby",
+        "meaning": "الهواية"
+    },
+    {
+        "artikel": "der",
+        "word": "Vater",
+        "meaning": "الأب"
+    },
+    {
+        "artikel": "",
+        "word": "warum",
+        "meaning": "لماذا"
+    },
+    {
+        "artikel": "",
+        "word": "anrufen",
+        "meaning": "يتصل هاتفياً"
+    },
+    {
+        "artikel": "der",
+        "word": "Hase",
+        "meaning": "الأرنب"
+    },
+    {
+        "artikel": "das",
+        "word": "Flugzeug",
+        "meaning": "الطائرة"
+    },
+    {
+        "artikel": "",
+        "word": "schlagen",
+        "meaning": "يضرب"
+    },
+    {
+        "artikel": "",
+        "word": "sagen",
+        "meaning": "يقول"
+    },
+    {
+        "artikel": "",
+        "word": "absagen",
+        "meaning": "يلغي"
+    },
+    {
+        "artikel": "",
+        "word": "dunkel",
+        "meaning": "مظلم"
+    },
+    {
+        "artikel": "die",
+        "word": "Angst",
+        "meaning": "الخوف"
+    },
+    {
+        "artikel": "",
+        "word": "Dezember",
+        "meaning": "ديسمبر"
+    },
+    {
+        "artikel": "der",
+        "word": "Stress",
+        "meaning": "التوتر"
+    },
+    {
+        "artikel": "der",
+        "word": "Alltag",
+        "meaning": "الحياة اليومية"
+    },
+    {
+        "artikel": "",
+        "word": "trinken",
+        "meaning": "يشرب"
+    },
+    {
+        "artikel": "der",
+        "word": "Schlüssel",
+        "meaning": "المفتاح"
+    },
+    {
+        "artikel": "die",
+        "word": "Hose",
+        "meaning": "السروال"
+    },
+    {
+        "artikel": "",
+        "word": "sehen",
+        "meaning": "يرى"
+    },
+    {
+        "artikel": "",
+        "word": "schließen",
+        "meaning": "يغلق"
+    },
+    {
+        "artikel": "",
+        "word": "ansehen",
+        "meaning": "يشاهد"
+    },
+    {
+        "artikel": "die",
+        "word": "Haare",
+        "meaning": "الشعر"
+    },
+    {
+        "artikel": "das",
+        "word": "Kino",
+        "meaning": "السينما"
+    },
+    {
+        "artikel": "",
+        "word": "küssen",
+        "meaning": "يقبل"
+    },
+    {
+        "artikel": "die",
+        "word": "Idee",
+        "meaning": "الفكرة"
+    },
+    {
+        "artikel": "",
+        "word": "besuchen",
+        "meaning": "يزور"
+    },
+    {
+        "artikel": "das",
+        "word": "Ei",
+        "meaning": "البيضة"
+    },
+    {
+        "artikel": "",
+        "word": "sich entschuldigen",
+        "meaning": "يعتذر"
+    },
+    {
+        "artikel": "die",
+        "word": "Farbe",
+        "meaning": "اللون"
+    },
+    {
+        "artikel": "",
+        "word": "teuer",
+        "meaning": "غالي الثمن"
+    },
+    {
+        "artikel": "das",
+        "word": "Brot",
+        "meaning": "الخبز"
+    },
+    {
+        "artikel": "die",
+        "word": "Universität",
+        "meaning": "الجامعة"
+    },
+    {
+        "artikel": "das",
+        "word": "Krankenhaus",
+        "meaning": "المستشفى"
+    },
+    {
+        "artikel": "das",
+        "word": "Gebäude",
+        "meaning": "المبنى"
+    },
+    {
+        "artikel": "die",
+        "word": "Kuh",
+        "meaning": "البقرة"
+    },
+    {
+        "artikel": "das",
+        "word": "Spielzeug",
+        "meaning": "اللعبة"
+    },
+    {
+        "artikel": "der",
+        "word": "Teppich",
+        "meaning": "البساط"
+    },
+    {
+        "artikel": "",
+        "word": "treffen",
+        "meaning": "يلتقي"
+    },
+    {
+        "artikel": "",
+        "word": "wach",
+        "meaning": "مستيقظ"
+    },
+    {
+        "artikel": "",
+        "word": "schwierig",
+        "meaning": "صعب"
+    },
+    {
+        "artikel": "der",
+        "word": "Strand",
+        "meaning": "الشاطئ"
+    },
+    {
+        "artikel": "die",
+        "word": "Stunde",
+        "meaning": "ساعة؛ 60 دقيقة"
+    },
+    {
+        "artikel": "",
+        "word": "korrigieren",
+        "meaning": "يصصح"
+    },
+    {
+        "artikel": "",
+        "word": "wiederholen",
+        "meaning": "يعيد / يكرر"
+    },
+    {
+        "artikel": "der",
+        "word": "Künstler",
+        "meaning": "الفنان"
+    },
+    {
+        "artikel": "die",
+        "word": "Kartoffel",
+        "meaning": "البطاطس"
+    },
+    {
+        "artikel": "",
+        "word": "ehrlich",
+        "meaning": "صريح"
+    },
+    {
+        "artikel": "der",
+        "word": "Baum",
+        "meaning": "الشجرة"
+    },
+    {
+        "artikel": "",
+        "word": "erlauben",
+        "meaning": "يسمح"
+    },
+    {
+        "artikel": "der",
+        "word": "Freund",
+        "meaning": "الصديق"
+    },
+    {
+        "artikel": "",
+        "word": "verlieren",
+        "meaning": "يخسر"
+    },
+    {
+        "artikel": "",
+        "word": "gewinnen",
+        "meaning": "يفوز"
+    },
+    {
+        "artikel": "",
+        "word": "reiten",
+        "meaning": "يركب الحصان"
+    },
+    {
+        "artikel": "",
+        "word": "töten",
+        "meaning": "قتل"
+    },
+    {
+        "artikel": "der",
+        "word": "Apfel",
+        "meaning": "التفاح"
+    },
+    {
+        "artikel": "das",
+        "word": "Fest",
+        "meaning": "الحفلة / العيد"
+    },
+    {
+        "artikel": "",
+        "word": "krank",
+        "meaning": "مريض"
+    },
+    {
+        "artikel": "",
+        "word": "nehmen",
+        "meaning": "يأخذ"
+    },
+    {
+        "artikel": "die",
+        "word": "Socke",
+        "meaning": "الجورب"
+    },
+    {
+        "artikel": "der",
+        "word": "Termin",
+        "meaning": "الموعد"
+    },
+    {
+        "artikel": "",
+        "word": "einfach",
+        "meaning": "بسيط / سهل"
+    },
+    {
+        "artikel": "die",
+        "word": "Minute",
+        "meaning": "الدقيقة"
+    },
+    {
+        "artikel": "die",
+        "word": "Hauptstadt",
+        "meaning": "العاصمة"
+    },
+    {
+        "artikel": "",
+        "word": "bedeuten",
+        "meaning": "يعني"
+    },
+    {
+        "artikel": "die",
+        "word": "Tochter",
+        "meaning": "الابنة"
+    },
+    {
+        "artikel": "der",
+        "word": "Winter",
+        "meaning": "الشتاء"
+    },
+    {
+        "artikel": "",
+        "word": "buchen",
+        "meaning": "يحجز"
+    },
+    {
+        "artikel": "die",
+        "word": "Ermäßigung",
+        "meaning": "التخفيض"
+    },
+    {
+        "artikel": "",
+        "word": "nichts",
+        "meaning": "لا شيء"
+    },
+    {
+        "artikel": "",
+        "word": "schnell",
+        "meaning": "سريع"
+    },
+    {
+        "artikel": "",
+        "word": "bezahlen",
+        "meaning": "يدفع الثمن"
+    },
+    {
+        "artikel": "",
+        "word": "Juli",
+        "meaning": "يوليو"
+    },
+    {
+        "artikel": "das",
+        "word": "Gift",
+        "meaning": "السم"
+    },
+    {
+        "artikel": "der",
+        "word": "Polizist",
+        "meaning": "الشرطي"
+    },
+    {
+        "artikel": "",
+        "word": "sollen",
+        "meaning": "يجب"
+    },
+    {
+        "artikel": "",
+        "word": "fotografieren",
+        "meaning": "يصور"
+    },
+    {
+        "artikel": "das",
+        "word": "Ohr",
+        "meaning": "الأذن"
+    },
+    {
+        "artikel": "der",
+        "word": "Kunde",
+        "meaning": "الزبون"
+    },
+    {
+        "artikel": "",
+        "word": "verkaufen",
+        "meaning": "يبيع"
+    },
+    {
+        "artikel": "",
+        "word": "kaufen",
+        "meaning": "يشتري"
+    },
+    {
+        "artikel": "der",
+        "word": "Schmetterling",
+        "meaning": "الفراشة"
+    },
+    {
+        "artikel": "der",
+        "word": "Unterricht",
+        "meaning": "الحصة الدراسية"
+    },
+    {
+        "artikel": "das",
+        "word": "Ding",
+        "meaning": "الشيء"
+    },
+    {
+        "artikel": "der",
+        "word": "Schauspieler",
+        "meaning": "الممثل"
+    },
+    {
+        "artikel": "der",
+        "word": "Salat",
+        "meaning": "السلطة"
+    },
+    {
+        "artikel": "",
+        "word": "geben",
+        "meaning": "يعطي"
+    },
+    {
+        "artikel": "der",
+        "word": "Brief",
+        "meaning": "الرسالة"
+    },
+    {
+        "artikel": "",
+        "word": "senden",
+        "meaning": "يرسل"
+    },
+    {
+        "artikel": "",
+        "word": "schwer",
+        "meaning": "ثقيل"
+    },
+    {
+        "artikel": "der",
+        "word": "Cousin",
+        "meaning": "ابن العم / ابن الخال"
+    },
+    {
+        "artikel": "der",
+        "word": "Kühlschrank",
+        "meaning": "الثلاجة"
+    },
+    {
+        "artikel": "die",
+        "word": "Suppe",
+        "meaning": "الحساء"
+    },
+    {
+        "artikel": "",
+        "word": "sonnig",
+        "meaning": "مشمس"
+    },
+    {
+        "artikel": "die",
+        "word": "Toilette",
+        "meaning": "المرحاض"
+    },
+    {
+        "artikel": "",
+        "word": "tragen",
+        "meaning": "يرتدي"
+    },
+    {
+        "artikel": "der",
+        "word": "Koffer",
+        "meaning": "الحقيبة"
+    },
+    {
+        "artikel": "die",
+        "word": "Schokolade",
+        "meaning": "الشوكولاتة"
+    },
+    {
+        "artikel": "",
+        "word": "ein bisschen",
+        "meaning": "قليلاً"
+    },
+    {
+        "artikel": "",
+        "word": "spazieren",
+        "meaning": "يتجول"
+    },
+    {
+        "artikel": "die",
+        "word": "Rechnung",
+        "meaning": "الحساب / الفاتورة"
+    },
+    {
+        "artikel": "das",
+        "word": "Feuer",
+        "meaning": "النار"
+    },
+    {
+        "artikel": "",
+        "word": "anfangen",
+        "meaning": "يبدأ"
+    },
+    {
+        "artikel": "",
+        "word": "laut",
+        "meaning": "عال الصوت"
+    },
+    {
+        "artikel": "der",
+        "word": "Käse",
+        "meaning": "الجبنة"
+    },
+    {
+        "artikel": "",
+        "word": "schwören",
+        "meaning": "يقسم"
+    },
+    {
+        "artikel": "",
+        "word": "gemütlich",
+        "meaning": "مريح"
+    },
+    {
+        "artikel": "das",
+        "word": "Gymnasium",
+        "meaning": "المدرسة الثانوية"
+    },
+    {
+        "artikel": "",
+        "word": "bauen",
+        "meaning": "يبني"
+    },
+    {
+        "artikel": "der",
+        "word": "Mensch",
+        "meaning": "الإنسان"
+    },
+    {
+        "artikel": "",
+        "word": "retten",
+        "meaning": "ينقذ"
+    },
+    {
+        "artikel": "das",
+        "word": "Glück",
+        "meaning": "الحظ / السعادة"
+    },
+    {
+        "artikel": "der",
+        "word": "Dieb",
+        "meaning": "اللص"
+    },
+    {
+        "artikel": "der",
+        "word": "Saft",
+        "meaning": "العصير"
+    },
+    {
+        "artikel": "der",
+        "word": "Kaffee",
+        "meaning": "القهوة"
+    },
+    {
+        "artikel": "die",
+        "word": "Gesundheit",
+        "meaning": "الصحة"
+    },
+    {
+        "artikel": "das",
+        "word": "Medikament",
+        "meaning": "الدواء"
+    },
+    {
+        "artikel": "",
+        "word": "langweilig",
+        "meaning": "ممل"
+    },
+    {
+        "artikel": "der",
+        "word": "Sommer",
+        "meaning": "الصيف"
+    },
+    {
+        "artikel": "die",
+        "word": "Geige",
+        "meaning": "الكمان"
+    },
+    {
+        "artikel": "der",
+        "word": "Preis",
+        "meaning": "الثمن"
+    },
+    {
+        "artikel": "der",
+        "word": "Reis",
+        "meaning": "الأرز"
+    },
+    {
+        "artikel": "",
+        "word": "langsam",
+        "meaning": "بطيء"
+    },
+    {
+        "artikel": "",
+        "word": "nie",
+        "meaning": "أبداً"
+    },
+    {
+        "artikel": "",
+        "word": "neben",
+        "meaning": "قرب / بجانب"
+    },
+    {
+        "artikel": "die",
+        "word": "Straßenbahn",
+        "meaning": "الترام"
+    },
+    {
+        "artikel": "",
+        "word": "lachen",
+        "meaning": "يضحك"
+    },
+    {
+        "artikel": "die",
+        "word": "Butter",
+        "meaning": "الزبدة"
+    },
+    {
+        "artikel": "die",
+        "word": "Erde",
+        "meaning": "الأرض"
+    },
+    {
+        "artikel": "der",
+        "word": "Zucker",
+        "meaning": "السكر"
+    },
+    {
+        "artikel": "das",
+        "word": "Papier",
+        "meaning": "الورقة"
+    },
+    {
+        "artikel": "die",
+        "word": "Jacke",
+        "meaning": "السترة"
+    },
+    {
+        "artikel": "die",
+        "word": "Tasche",
+        "meaning": "الحقيبة"
+    },
+    {
+        "artikel": "",
+        "word": "März",
+        "meaning": "مارس"
+    },
+    {
+        "artikel": "die",
+        "word": "Henne",
+        "meaning": "الدجاجة"
+    },
+    {
+        "artikel": "",
+        "word": "gern geschehen",
+        "meaning": "العفو!"
+    },
+    {
+        "artikel": "die",
+        "word": "Krankheit",
+        "meaning": "المرض"
+    },
+    {
+        "artikel": "die",
+        "word": "Sonne",
+        "meaning": "الشمس"
+    },
+    {
+        "artikel": "das",
+        "word": "Pferd",
+        "meaning": "الحصان"
+    },
+    {
+        "artikel": "die",
+        "word": "Lösung",
+        "meaning": "الحل"
+    },
+    {
+        "artikel": "der",
+        "word": "Roman",
+        "meaning": "الرواية"
+    },
+    {
+        "artikel": "",
+        "word": "groß",
+        "meaning": "كبير"
+    },
+    {
+        "artikel": "der",
+        "word": "Onkel",
+        "meaning": "العم / الخال"
+    },
+    {
+        "artikel": "der",
+        "word": "Enkel",
+        "meaning": "الحفيد"
+    },
+    {
+        "artikel": "",
+        "word": "heiraten",
+        "meaning": "يتزوج"
+    },
+    {
+        "artikel": "der",
+        "word": "Fahrschein",
+        "meaning": "تذكرة السفر"
+    },
+    {
+        "artikel": "der",
+        "word": "Himmel",
+        "meaning": "السماء / الجنة"
+    },
+    {
+        "artikel": "der",
+        "word": "Wecker",
+        "meaning": "المنبه"
+    },
+    {
+        "artikel": "das",
+        "word": "Abenteuer",
+        "meaning": "المغامرة"
+    },
+    {
+        "artikel": "die",
+        "word": "Fliege",
+        "meaning": "الذبابة"
+    },
+    {
+        "artikel": "das",
+        "word": "Öl",
+        "meaning": "الزيت"
+    },
+    {
+        "artikel": "",
+        "word": "bequem",
+        "meaning": "مريح"
+    },
+    {
+        "artikel": "das",
+        "word": "Meer",
+        "meaning": "البحر"
+    },
+    {
+        "artikel": "die",
+        "word": "Ausnahme",
+        "meaning": "الاستثناء"
+    },
+    {
+        "artikel": "",
+        "word": "manchmal",
+        "meaning": "أحياناً"
+    },
+    {
+        "artikel": "das",
+        "word": "Gleis",
+        "meaning": "الرصيف"
+    },
+    {
+        "artikel": "die",
+        "word": "Zahnbürste",
+        "meaning": "فرشاة الأسنان"
+    },
+    {
+        "artikel": "der",
+        "word": "Regenschirm",
+        "meaning": "المظلة"
+    },
+    {
+        "artikel": "der",
+        "word": "Bauer",
+        "meaning": "الفلاح"
+    },
+    {
+        "artikel": "der",
+        "word": "Geburtstag",
+        "meaning": "يوم الميلاد"
+    },
+    {
+        "artikel": "die",
+        "word": "Lust",
+        "meaning": "الرغبة"
+    },
+    {
+        "artikel": "das",
+        "word": "Rezept",
+        "meaning": "الوصفة (طبية / غذائية)"
+    },
+    {
+        "artikel": "",
+        "word": "schützen",
+        "meaning": "يحمي"
+    },
+    {
+        "artikel": "",
+        "word": "Gestern",
+        "meaning": "الأمس"
+    },
+    {
+        "artikel": "der",
+        "word": "Fisch",
+        "meaning": "السمكة"
+    },
+    {
+        "artikel": "die",
+        "word": "Seele",
+        "meaning": "الروح"
+    },
+    {
+        "artikel": "",
+        "word": "Freitag",
+        "meaning": "الجمعة"
+    },
+    {
+        "artikel": "",
+        "word": "September",
+        "meaning": "سبتمبر"
+    },
+    {
+        "artikel": "der",
+        "word": "Vorname",
+        "meaning": "الاسم الشخصي"
+    },
+    {
+        "artikel": "die",
+        "word": "Polizei",
+        "meaning": "الشرطة"
+    },
+    {
+        "artikel": "der",
+        "word": "Flughafen",
+        "meaning": "المطار"
+    },
+    {
+        "artikel": "der",
+        "word": "Wind",
+        "meaning": "الريح"
+    },
+    {
+        "artikel": "die",
+        "word": "Hexe",
+        "meaning": "الساحرة"
+    },
+    {
+        "artikel": "",
+        "word": "können",
+        "meaning": "يستطيع"
+    },
+    {
+        "artikel": "",
+        "word": "einladen",
+        "meaning": "يدعو"
+    },
+    {
+        "artikel": "",
+        "word": "fliegen",
+        "meaning": "يطير"
+    },
+    {
+        "artikel": "der",
+        "word": "Herbst",
+        "meaning": "فصل الخريف"
+    },
+    {
+        "artikel": "",
+        "word": "weinen",
+        "meaning": "يبكي"
+    },
+    {
+        "artikel": "die",
+        "word": "Reise",
+        "meaning": "السفر"
+    },
+    {
+        "artikel": "das",
+        "word": "Problem",
+        "meaning": "المشكلة"
+    },
+    {
+        "artikel": "das",
+        "word": "Ziel",
+        "meaning": "الهدف"
+    },
+    {
+        "artikel": "die",
+        "word": "Schachtel",
+        "meaning": "العلبة"
+    },
+    {
+        "artikel": "die",
+        "word": "Prüfung",
+        "meaning": "الامتحان"
+    },
+    {
+        "artikel": "",
+        "word": "wechseln",
+        "meaning": "صرف العملة"
+    },
+    {
+        "artikel": "",
+        "word": "wählen",
+        "meaning": "اختار / صوت"
+    },
+    {
+        "artikel": "",
+        "word": "verstecken",
+        "meaning": "يخفي"
+    },
+    {
+        "artikel": "",
+        "word": "ruhig",
+        "meaning": "هادئ"
+    },
+    {
+        "artikel": "die",
+        "word": "Gruppe",
+        "meaning": "المجموعة"
+    },
+    {
+        "artikel": "die",
+        "word": "Mannschaft",
+        "meaning": "الفريق"
+    },
+    {
+        "artikel": "",
+        "word": "sich bewerben",
+        "meaning": "يتقدم لوظيفة"
+    },
+    {
+        "artikel": "der",
+        "word": "Abfall",
+        "meaning": "النفايات"
+    },
+    {
+        "artikel": "das",
+        "word": "Konto",
+        "meaning": "الحساب"
+    },
+    {
+        "artikel": "die",
+        "word": "Seife",
+        "meaning": "الصابونة"
+    },
+    {
+        "artikel": "das",
+        "word": "Café",
+        "meaning": "المقهى"
+    },
+    {
+        "artikel": "das",
+        "word": "Fleisch",
+        "meaning": "اللحم"
+    },
+    {
+        "artikel": "",
+        "word": "pünktlich",
+        "meaning": "دقيق في مواعيده"
+    },
+    {
+        "artikel": "",
+        "word": "Dienstag",
+        "meaning": "الثلاثاء"
+    },
+    {
+        "artikel": "",
+        "word": "giftig",
+        "meaning": "سام"
+    },
+    {
+        "artikel": "die",
+        "word": "Anschrift",
+        "meaning": "العنوان"
+    },
+    {
+        "artikel": "die",
+        "word": "Zwiebel",
+        "meaning": "البصل"
+    },
+    {
+        "artikel": "der",
+        "word": "Reisepass",
+        "meaning": "جواز السفر"
+    },
+    {
+        "artikel": "die",
+        "word": "Straße",
+        "meaning": "الشارع"
+    },
+    {
+        "artikel": "",
+        "word": "sterben",
+        "meaning": "يموت"
+    },
+    {
+        "artikel": "der",
+        "word": "Lebenslauf",
+        "meaning": "السيرة الذاتية"
+    },
+    {
+        "artikel": "das",
+        "word": "Geschäft",
+        "meaning": "المتجر"
+    },
+    {
+        "artikel": "der",
+        "word": "Friede",
+        "meaning": "السلام"
+    },
+    {
+        "artikel": "die",
+        "word": "Zeitschrift",
+        "meaning": "المجلة"
+    },
+    {
+        "artikel": "der",
+        "word": "Vertrag",
+        "meaning": "العقد"
+    },
+    {
+        "artikel": "der",
+        "word": "Frühstück",
+        "meaning": "وجبة الفطور"
+    },
+    {
+        "artikel": "die",
+        "word": "Milch",
+        "meaning": "الحليب"
+    },
+    {
+        "artikel": "der",
+        "word": "Tisch",
+        "meaning": "الطاولة"
+    },
+    {
+        "artikel": "der",
+        "word": "Schuh",
+        "meaning": "الحذاء"
+    },
+    {
+        "artikel": "",
+        "word": "sich beschweren",
+        "meaning": "يشتكي"
+    },
+    {
+        "artikel": "",
+        "word": "sich erinnern",
+        "meaning": "يتذكر"
+    },
+    {
+        "artikel": "",
+        "word": "sich freuen",
+        "meaning": "يبتهج"
+    },
+    {
+        "artikel": "das",
+        "word": "Büro",
+        "meaning": "المكتب"
+    },
+    {
+        "artikel": "das",
+        "word": "Wörterbuch",
+        "meaning": "المعجم"
+    },
+    {
+        "artikel": "die",
+        "word": "Schere",
+        "meaning": "المقص"
+    },
+    {
+        "artikel": "der",
+        "word": "Tourist",
+        "meaning": "السائح"
+    },
+    {
+        "artikel": "der",
+        "word": "Unfall",
+        "meaning": "الحادث"
+    },
+    {
+        "artikel": "der",
+        "word": "Großvater",
+        "meaning": "الجد"
+    },
+    {
+        "artikel": "das",
+        "word": "Schulfach",
+        "meaning": "المادة الدراسية"
+    },
+    {
+        "artikel": "",
+        "word": "verschwinden",
+        "meaning": "يختفي"
+    },
+    {
+        "artikel": "die",
+        "word": "Tomate",
+        "meaning": "الطماطم"
+    },
+    {
+        "artikel": "der",
+        "word": "Zahn",
+        "meaning": "السن"
+    },
+    {
+        "artikel": "das",
+        "word": "Eis",
+        "meaning": "الثلج / البوظة"
+    },
+    {
+        "artikel": "",
+        "word": "beschäftigt",
+        "meaning": "مشغول"
+    },
+    {
+        "artikel": "",
+        "word": "voll",
+        "meaning": "ممتلئ"
+    },
+    {
+        "artikel": "der",
+        "word": "Geldautomat",
+        "meaning": "شباك الصرف الآلي"
+    },
+    {
+        "artikel": "der",
+        "word": "Wolf",
+        "meaning": "الذئب"
+    },
+    {
+        "artikel": "",
+        "word": "interessant",
+        "meaning": "مثير للاهتمام"
+    },
+    {
+        "artikel": "das",
+        "word": "Zimmer",
+        "meaning": "الغرفة"
+    },
+    {
+        "artikel": "das",
+        "word": "Klavier",
+        "meaning": "البيانو"
+    },
+    {
+        "artikel": "das",
+        "word": "Herz",
+        "meaning": "القلب"
+    },
+    {
+        "artikel": "",
+        "word": "achten",
+        "meaning": "ينتبه"
+    },
+    {
+        "artikel": "",
+        "word": "folgen",
+        "meaning": "يتبع"
+    },
+    {
+        "artikel": "",
+        "word": "weiß",
+        "meaning": "أبيض"
+    },
+    {
+        "artikel": "",
+        "word": "verrückt",
+        "meaning": "أحمق"
+    },
+    {
+        "artikel": "",
+        "word": "lehren",
+        "meaning": "يدرس"
+    },
+    {
+        "artikel": "",
+        "word": "messen",
+        "meaning": "يقيس"
+    },
+    {
+        "artikel": "die",
+        "word": "Überraschung",
+        "meaning": "المفاجأة"
+    },
+    {
+        "artikel": "die",
+        "word": "Briefmarke",
+        "meaning": "الطابع البريدي"
+    },
+    {
+        "artikel": "das",
+        "word": "Schach",
+        "meaning": "الشطرنج"
+    },
+    {
+        "artikel": "",
+        "word": "sparen",
+        "meaning": "يوفر / يقصد"
+    },
+    {
+        "artikel": "der",
+        "word": "Stein",
+        "meaning": "الحجر"
+    },
+    {
+        "artikel": "der",
+        "word": "Fluss",
+        "meaning": "النهر"
+    },
+    {
+        "artikel": "",
+        "word": "vorbereiten",
+        "meaning": "يحضّر"
+    },
+    {
+        "artikel": "",
+        "word": "ähnlich",
+        "meaning": "متشابه"
+    },
+    {
+        "artikel": "die",
+        "word": "Krawatte",
+        "meaning": "ربطة العنق"
+    },
+    {
+        "artikel": "die",
+        "word": "Schublade",
+        "meaning": "الدرج"
+    },
+    {
+        "artikel": "",
+        "word": "praktisch",
+        "meaning": "عملي"
+    },
+    {
+        "artikel": "das",
+        "word": "Weihnachten",
+        "meaning": "أعياد الميلاد"
+    },
+    {
+        "artikel": "die",
+        "word": "Wüste",
+        "meaning": "الصحراء"
+    },
+    {
+        "artikel": "die",
+        "word": "Ehefrau",
+        "meaning": "الزوجة"
+    },
+    {
+        "artikel": "das",
+        "word": "Risiko",
+        "meaning": "الخطر"
+    },
+    {
+        "artikel": "die",
+        "word": "Freundschaft",
+        "meaning": "الصداقة"
+    },
+    {
+        "artikel": "der",
+        "word": "Feind",
+        "meaning": "العدو"
+    },
+    {
+        "artikel": "der",
+        "word": "Wald",
+        "meaning": "الغابة"
+    },
+    {
+        "artikel": "die",
+        "word": "Münze",
+        "meaning": "العملة المعدنية"
+    },
+    {
+        "artikel": "der",
+        "word": "Staat",
+        "meaning": "الدولة"
+    },
+    {
+        "artikel": "das",
+        "word": "Küken",
+        "meaning": "الفرخ"
+    },
+    {
+        "artikel": "der",
+        "word": "Donner",
+        "meaning": "الرعد"
+    },
+    {
+        "artikel": "die",
+        "word": "Mücke",
+        "meaning": "البعوضة"
+    },
+    {
+        "artikel": "der",
+        "word": "Krieg",
+        "meaning": "الحرب"
+    },
+    {
+        "artikel": "der",
+        "word": "Kollege",
+        "meaning": "الزميل"
+    },
+    {
+        "artikel": "die",
+        "word": "Firma",
+        "meaning": "الشركة"
+    },
+    {
+        "artikel": "",
+        "word": "entscheiden",
+        "meaning": "يقرر"
+    },
+    {
+        "artikel": "das",
+        "word": "Stück",
+        "meaning": "القطعة"
+    },
+    {
+        "artikel": "",
+        "word": "wohnen",
+        "meaning": "يسكن"
+    },
+    {
+        "artikel": "der",
+        "word": "Student",
+        "meaning": "الطالب"
+    },
+    {
+        "artikel": "",
+        "word": "aufhören",
+        "meaning": "يتوقف / يملّ عن"
+    },
+    {
+        "artikel": "",
+        "word": "mieten",
+        "meaning": "يستأجر"
+    },
+    {
+        "artikel": "",
+        "word": "stören",
+        "meaning": "يُزعج"
+    },
+    {
+        "artikel": "",
+        "word": "warten",
+        "meaning": "ينتظر"
+    },
+    {
+        "artikel": "die",
+        "word": "Übung",
+        "meaning": "التمرين"
+    },
+    {
+        "artikel": "",
+        "word": "bereit",
+        "meaning": "مستعد"
+    },
+    {
+        "artikel": "",
+        "word": "wehtun",
+        "meaning": "يؤلم"
+    },
+    {
+        "artikel": "der",
+        "word": "Platz",
+        "meaning": "المكان"
+    },
+    {
+        "artikel": "die",
+        "word": "Stirn",
+        "meaning": "الجبهة"
+    },
+    {
+        "artikel": "der",
+        "word": "Friseur",
+        "meaning": "الحلاق"
+    },
+    {
+        "artikel": "das",
+        "word": "Hähnchen",
+        "meaning": "الدجاج"
+    },
+    {
+        "artikel": "",
+        "word": "versprechen",
+        "meaning": "يوعد"
+    },
+    {
+        "artikel": "der",
+        "word": "Weg",
+        "meaning": "الطريق"
+    },
+    {
+        "artikel": "die",
+        "word": "Wahrheit",
+        "meaning": "الحقيقة"
+    },
+    {
+        "artikel": "",
+        "word": "wenig",
+        "meaning": "قليل"
+    },
+    {
+        "artikel": "",
+        "word": "satt sein",
+        "meaning": "شبعان"
+    },
+    {
+        "artikel": "das",
+        "word": "Feld",
+        "meaning": "الحقل"
+    },
+    {
+        "artikel": "der",
+        "word": "Junge",
+        "meaning": "الطفل"
+    },
+    {
+        "artikel": "",
+        "word": "November",
+        "meaning": "نوفمبر / تشرين الثاني"
+    },
+    {
+        "artikel": "der",
+        "word": "Schatz",
+        "meaning": "الكنز"
+    },
+    {
+        "artikel": "das",
+        "word": "Abitur",
+        "meaning": "امتحان إتمام الدراسة الثانوية"
+    },
+    {
+        "artikel": "",
+        "word": "sauber",
+        "meaning": "نظيف"
+    },
+    {
+        "artikel": "die",
+        "word": "Gabel",
+        "meaning": "الشوكة"
+    },
+    {
+        "artikel": "",
+        "word": "rot",
+        "meaning": "أحمر"
+    },
+    {
+        "artikel": "das",
+        "word": "Französisch",
+        "meaning": "اللغة الفرنسية"
+    },
+    {
+        "artikel": "die",
+        "word": "Welt",
+        "meaning": "العالم"
+    },
+    {
+        "artikel": "die",
+        "word": "Umwelt",
+        "meaning": "البيئة"
+    },
+    {
+        "artikel": null,
+        "word": "streiten",
+        "meaning": "يتشاجر"
+    },
+    {
+        "artikel": "der",
+        "word": "Stern",
+        "meaning": "النجم"
+    },
+    {
+        "artikel": "die",
+        "word": "Haut",
+        "meaning": "الجلد"
+    },
+    {
+        "artikel": null,
+        "word": "billig",
+        "meaning": "رخيص الثمن"
+    },
+    {
+        "artikel": null,
+        "word": "schwarz",
+        "meaning": "أسود"
+    },
+    {
+        "artikel": "",
+        "word": "kochen",
+        "meaning": "يطبخ"
+    },
+    {
+        "artikel": "der",
+        "word": "Schrank",
+        "meaning": "الدولاب"
+    },
+    {
+        "artikel": "die",
+        "word": "Chance",
+        "meaning": "الحظ"
+    },
+    {
+        "artikel": "das",
+        "word": "Dorf",
+        "meaning": "القرية"
+    },
+    {
+        "artikel": "der",
+        "word": "Ehemann",
+        "meaning": "الزوج"
+    },
+    {
+        "artikel": "der",
+        "word": "Saal",
+        "meaning": "القاعة"
+    },
+    {
+        "artikel": "der",
+        "word": "Herd",
+        "meaning": "موقد المطبخ"
+    },
+    {
+        "artikel": "der",
+        "word": "Held",
+        "meaning": "البطل"
+    },
+    {
+        "artikel": null,
+        "word": "verboten",
+        "meaning": "ممنوع"
+    },
+    {
+        "artikel": "die",
+        "word": "Verlobte",
+        "meaning": "الخطبية"
+    },
+    {
+        "artikel": "der",
+        "word": "Wasserfall",
+        "meaning": "الشلال"
+    },
+    {
+        "artikel": "der",
+        "word": "Vorteil",
+        "meaning": "الميزة"
+    },
+    {
+        "artikel": "der",
+        "word": "Nachteil",
+        "meaning": "أمر سلبي"
+    },
+    {
+        "artikel": "die",
+        "word": "Nadel",
+        "meaning": "الإبرة"
+    },
+    {
+        "artikel": "das",
+        "word": "Talent",
+        "meaning": "الموهبة"
+    },
+    {
+        "artikel": "der",
+        "word": "Hammer",
+        "meaning": "المطرقة"
+    },
+    {
+        "artikel": "das",
+        "word": "Loch",
+        "meaning": "الثقب"
+    },
+    {
+        "artikel": null,
+        "word": "siegen",
+        "meaning": "ينتصر"
+    },
+    {
+        "artikel": "die",
+        "word": "Ewigkeit",
+        "meaning": "الخلود"
+    },
+    {
+        "artikel": "die",
+        "word": "Hölle",
+        "meaning": "الجحيم"
+    },
+    {
+        "artikel": null,
+        "word": "schweigen",
+        "meaning": "يصمت"
+    },
+    {
+        "artikel": "der",
+        "word": "Verein",
+        "meaning": "النادي/الجمعية"
+    },
+    {
+        "artikel": null,
+        "word": "einschalten",
+        "meaning": "يشغل / يضئ"
+    },
+    {
+        "artikel": null,
+        "word": "ausschalten",
+        "meaning": "يطفئ / يوقف"
+    },
+    {
+        "artikel": "das",
+        "word": "Sprichwort",
+        "meaning": "المثل / الحكمة"
+    },
+    {
+        "artikel": null,
+        "word": "sich vorstellen",
+        "meaning": "يقدم نفسه / يتخيل"
+    },
+    {
+        "artikel": "das",
+        "word": "Messer",
+        "meaning": "السكين"
+    },
+    {
+        "artikel": "",
+        "word": "regnen",
+        "meaning": "تمطر"
+    },
+    {
+        "artikel": "",
+        "word": "schmutzig",
+        "meaning": "متسخ"
+    },
+    {
+        "artikel": "die",
+        "word": "Liebe",
+        "meaning": "الحب"
+    },
+    {
+        "artikel": "der",
+        "word": "Kopf",
+        "meaning": "الرأس"
+    },
+    {
+        "artikel": "das",
+        "word": "Mittagessen",
+        "meaning": "وجبة الغداء"
+    },
+    {
+        "artikel": "der",
+        "word": "Knoblauch",
+        "meaning": "الثوم"
+    },
+    {
+        "artikel": "die",
+        "word": "Moschee",
+        "meaning": "المسجد"
+    },
+    {
+        "artikel": "das",
+        "word": "Kleid",
+        "meaning": "الفستان"
+    },
+    {
+        "artikel": "",
+        "word": "steigen",
+        "meaning": "يصعد"
+    },
+    {
+        "artikel": "der",
+        "word": "Rabatt",
+        "meaning": "التخفيض"
+    },
+    {
+        "artikel": "",
+        "word": "tief",
+        "meaning": "عميق"
+    },
+    {
+        "artikel": "",
+        "word": "obdachlos",
+        "meaning": "مشرد"
+    },
+    {
+        "artikel": "der",
+        "word": "Teufel",
+        "meaning": "الشيطان"
+    },
+    {
+        "artikel": "",
+        "word": "wünschen",
+        "meaning": "يتمنى"
+    },
+    {
+        "artikel": "das",
+        "word": "Geld",
+        "meaning": "المال"
+    },
+    {
+        "artikel": "das",
+        "word": "Kamel",
+        "meaning": "الجمل"
+    },
+    {
+        "artikel": "der",
+        "word": "Rasen",
+        "meaning": "العشب"
+    },
+    {
+        "artikel": "das",
+        "word": "Rathaus",
+        "meaning": "دار البلدية"
+    },
+    {
+        "artikel": "die",
+        "word": "Gesellschaft",
+        "meaning": "المجتمع"
+    },
+    {
+        "artikel": "",
+        "word": "geduldig",
+        "meaning": "صبور"
+    },
+    {
+        "artikel": "die",
+        "word": "Sicherheit",
+        "meaning": "الأمان / الحماية"
+    },
+    {
+        "artikel": "der",
+        "word": "Reifen",
+        "meaning": "العجلة"
+    },
+    {
+        "artikel": "die",
+        "word": "Seite",
+        "meaning": "الصفحة"
+    },
+    {
+        "artikel": "",
+        "word": "leicht",
+        "meaning": "سهل / خفيف"
+    },
+    {
+        "artikel": "das",
+        "word": "Gesetz",
+        "meaning": "القانون"
+    },
+    {
+        "artikel": "der",
+        "word": "Ring",
+        "meaning": "الخاتم"
+    },
+    {
+        "artikel": "",
+        "word": "Frankreich",
+        "meaning": "فرنسا"
+    },
+    {
+        "artikel": "die",
+        "word": "Schulden",
+        "meaning": "الديون"
+    },
+    {
+        "artikel": "",
+        "word": "schneiden",
+        "meaning": "يقطع / يقص"
+    },
+    {
+        "artikel": null,
+        "word": "Samstag",
+        "meaning": "السبت"
+    },
+    {
+        "artikel": "das",
+        "word": "Opfer",
+        "meaning": "التضحية"
+    },
+    {
+        "artikel": "",
+        "word": "samstag",
+        "meaning": "السبت"
+    },
+    {
+        "artikel": "der",
+        "word": "Ort",
+        "meaning": "المكان"
+    },
+    {
+        "artikel": "der",
+        "word": "Löffel",
+        "meaning": "الملعقة"
+    },
+    {
+        "artikel": "",
+        "word": "süß",
+        "meaning": "حلو / لطيف"
+    },
+    {
+        "artikel": "der",
+        "word": "Frühling",
+        "meaning": "فصل الربيع"
+    },
+    {
+        "artikel": "das",
+        "word": "Mädchen",
+        "meaning": "الفتاة"
+    },
+    {
+        "artikel": "das",
+        "word": "Gedicht",
+        "meaning": "القصيدة"
+    },
+    {
+        "artikel": "die",
+        "word": "Zukunft",
+        "meaning": "المستقبل"
+    },
+    {
+        "artikel": "die",
+        "word": "Unterkunft",
+        "meaning": "السكن"
+    },
+    {
+        "artikel": "der",
+        "word": "Zirkus",
+        "meaning": "السيرك"
+    },
+    {
+        "artikel": "",
+        "word": "blau",
+        "meaning": "أزرق"
+    },
+    {
+        "artikel": "die",
+        "word": "Flasche",
+        "meaning": "القنينة"
+    },
+    {
+        "artikel": "",
+        "word": "berühmt",
+        "meaning": "مشهور"
+    },
+    {
+        "artikel": "der",
+        "word": "Eimer",
+        "meaning": "الدلو"
+    },
+    {
+        "artikel": "die",
+        "word": "Qualität",
+        "meaning": "الجودة"
+    },
+    {
+        "artikel": "der",
+        "word": "Sand",
+        "meaning": "الرمل"
+    },
+    {
+        "artikel": "",
+        "word": "springen",
+        "meaning": "يقفز"
+    },
+    {
+        "artikel": "",
+        "word": "benutzen",
+        "meaning": "يستعمل"
+    },
+    {
+        "artikel": "der",
+        "word": "Forscher",
+        "meaning": "الباحث"
+    },
+    {
+        "artikel": "der",
+        "word": "Knochen",
+        "meaning": "العظم"
+    },
+    {
+        "artikel": "das",
+        "word": "Schaf",
+        "meaning": "الخروف"
+    },
+    {
+        "artikel": "",
+        "word": "schuldig",
+        "meaning": "مذنب"
+    },
+    {
+        "artikel": "der",
+        "word": "Wasserhahn",
+        "meaning": "الصنبور"
+    },
+    {
+        "artikel": "der",
+        "word": "Schnupfen",
+        "meaning": "الزكام"
+    },
+    {
+        "artikel": "",
+        "word": "gebraucht",
+        "meaning": "مستعمل"
+    },
+    {
+        "artikel": "",
+        "word": "atmen",
+        "meaning": "يتنفس"
+    },
+    {
+        "artikel": "",
+        "word": "jagen",
+        "meaning": "يصطاد"
+    },
+    {
+        "artikel": "",
+        "word": "verbessern",
+        "meaning": "يحسن"
+    },
+    {
+        "artikel": "",
+        "word": "April",
+        "meaning": "أبريل / نيسان"
+    },
+    {
+        "artikel": "",
+        "word": "brennen",
+        "meaning": "يحرق"
+    },
+    {
+        "artikel": "",
+        "word": "grau",
+        "meaning": "رمادي"
+    },
+    {
+        "artikel": "die",
+        "word": "Macht",
+        "meaning": "القوة / السلطة"
+    },
+    {
+        "artikel": "der",
+        "word": "Kopfhörer",
+        "meaning": "سماعات الأذن"
+    },
+    {
+        "artikel": "die",
+        "word": "Kleidung",
+        "meaning": "الملابس"
+    },
+    {
+        "artikel": "",
+        "word": "schenken",
+        "meaning": "يهدي"
+    },
+    {
+        "artikel": "",
+        "word": "neugierig",
+        "meaning": "فضولي"
+    },
+    {
+        "artikel": "",
+        "word": "fahren",
+        "meaning": "يقود"
+    },
+    {
+        "artikel": "die",
+        "word": "Bemerkung",
+        "meaning": "الملاحظة"
+    },
+    {
+        "artikel": "",
+        "word": "erzählen",
+        "meaning": "يحكي"
+    },
+    {
+        "artikel": "der",
+        "word": "Spiegel",
+        "meaning": "المرآة"
+    },
+    {
+        "artikel": "der",
+        "word": "Punkt",
+        "meaning": "النقطة"
+    },
+    {
+        "artikel": "die",
+        "word": "Haltestelle",
+        "meaning": "المحطة / الموقف"
+    },
+    {
+        "artikel": "",
+        "word": "taub",
+        "meaning": "أصم"
+    },
+    {
+        "artikel": "der",
+        "word": "Teilnehmer",
+        "meaning": "المشارك"
+    },
+    {
+        "artikel": "das",
+        "word": "Holz",
+        "meaning": "الخشب"
+    },
+    {
+        "artikel": "der",
+        "word": "Sack",
+        "meaning": "الكيس"
+    },
+    {
+        "artikel": "der",
+        "word": "Blitz",
+        "meaning": "البرق"
+    },
+    {
+        "artikel": "das",
+        "word": "Glas",
+        "meaning": "الكوب"
+    },
+    {
+        "artikel": "der",
+        "word": "Strom",
+        "meaning": "الكهرباء"
+    },
+    {
+        "artikel": "der",
+        "word": "Jäger",
+        "meaning": "الصياد"
+    },
+    {
+        "artikel": "die",
+        "word": "Mühe",
+        "meaning": "المجهود"
+    },
+    {
+        "artikel": "der",
+        "word": "Turm",
+        "meaning": "البرج"
+    },
+    {
+        "artikel": "die",
+        "word": "Dummheit",
+        "meaning": "الغباء"
+    },
+    {
+        "artikel": "der",
+        "word": "Grund",
+        "meaning": "السبب"
+    },
+    {
+        "artikel": "der",
+        "word": "Gott",
+        "meaning": "الله"
+    },
+    {
+        "artikel": "die",
+        "word": "Taube",
+        "meaning": "الحمامة"
+    },
+    {
+        "artikel": "",
+        "word": "zusammen",
+        "meaning": "معاً"
+    },
+    {
+        "artikel": "",
+        "word": "Mittwoch",
+        "meaning": "الأربعاء"
+    },
+    {
+        "artikel": "der",
+        "word": "Richter",
+        "meaning": "القاضي"
+    },
+    {
+        "artikel": "",
+        "word": "sich erkundigen",
+        "meaning": "يستعلم"
+    },
+    {
+        "artikel": "die",
+        "word": "Kunst",
+        "meaning": "الفن"
+    },
+    {
+        "artikel": "das",
+        "word": "Blut",
+        "meaning": "الدم"
+    },
+    {
+        "artikel": "die",
+        "word": "Energie",
+        "meaning": "الطاقة"
+    },
+    {
+        "artikel": "der",
+        "word": "Präsident",
+        "meaning": "الرئيس"
+    },
+    {
+        "artikel": "",
+        "word": "lustig",
+        "meaning": "مضحك / مرح"
+    },
+    {
+        "artikel": "der",
+        "word": "Fuß",
+        "meaning": "القدم"
+    },
+    {
+        "artikel": "der",
+        "word": "Fuchs",
+        "meaning": "الثعلب"
+    },
+    {
+        "artikel": "das",
+        "word": "Licht",
+        "meaning": "الضوء"
+    },
+    {
+        "artikel": "die",
+        "word": "Ampel",
+        "meaning": "الإشارة الضوئية"
+    },
+    {
+        "artikel": "",
+        "word": "aussteigen",
+        "meaning": "ينزل"
+    },
+    {
+        "artikel": "das",
+        "word": "Produkt",
+        "meaning": "المنتج"
+    },
+    {
+        "artikel": "",
+        "word": "reden",
+        "meaning": "يتحدث"
+    },
+    {
+        "artikel": "",
+        "word": "waschen",
+        "meaning": "يغسل"
+    },
+    {
+        "artikel": "die",
+        "word": "Wunde",
+        "meaning": "الجرح"
+    },
+    {
+        "artikel": "",
+        "word": "finden",
+        "meaning": "يجد"
+    },
+    {
+        "artikel": "",
+        "word": "erfinden",
+        "meaning": "يخترع"
+    },
+    {
+        "artikel": "der",
+        "word": "Job",
+        "meaning": "العمل"
+    },
+    {
+        "artikel": "",
+        "word": "mischen",
+        "meaning": "يخلط / يمزج"
+    },
+    {
+        "artikel": "die",
+        "word": "Mitternacht",
+        "meaning": "منتصف الليل"
+    },
+    {
+        "artikel": "der",
+        "word": "Dichter",
+        "meaning": "الشاعر"
+    },
+    {
+        "artikel": "der",
+        "word": "Zahnarzt",
+        "meaning": "طبيب الأسنان"
+    },
+    {
+        "artikel": "der",
+        "word": "Lastwagen",
+        "meaning": "الشاحنة"
+    },
+    {
+        "artikel": "das",
+        "word": "Ergebnis",
+        "meaning": "النتيجة"
+    },
+    {
+        "artikel": "die",
+        "word": "Richtung",
+        "meaning": "الاتجاه"
+    },
+    {
+        "artikel": "",
+        "word": "abbiegen",
+        "meaning": "ينعطف / ينحرف"
+    },
+    {
+        "artikel": "das",
+        "word": "Wissen",
+        "meaning": "العلم / المعرفة"
+    },
+    {
+        "artikel": "die",
+        "word": "Sucht",
+        "meaning": "الإدمان"
+    },
+    {
+        "artikel": "der",
+        "word": "Anzug",
+        "meaning": "البدلة"
+    },
+    {
+        "artikel": "die",
+        "word": "Nachricht",
+        "meaning": "الرسالة/الخبر"
+    },
+    {
+        "artikel": "die",
+        "word": "Möglichkeit",
+        "meaning": "الإمكانية"
+    },
+    {
+        "artikel": "das",
+        "word": "Mitglied",
+        "meaning": "العضو"
+    },
+    {
+        "artikel": "",
+        "word": "stolz",
+        "meaning": "فخور"
+    },
+    {
+        "artikel": "",
+        "word": "beeinflussen",
+        "meaning": "يؤثر على"
+    },
+    {
+        "artikel": "der",
+        "word": "Rat",
+        "meaning": "النصيحة"
+    },
+    {
+        "artikel": "die",
+        "word": "Wirtschaft",
+        "meaning": "الاقتصاد"
+    },
+    {
+        "artikel": "das",
+        "word": "Einzelzimmer",
+        "meaning": "غرفة لشخص واحد"
+    },
+    {
+        "artikel": "",
+        "word": "zerstören",
+        "meaning": "يدمر / يخرب"
+    },
+    {
+        "artikel": "",
+        "word": "reif",
+        "meaning": "ناضج"
+    },
+    {
+        "artikel": "",
+        "word": "leihen",
+        "meaning": "يعير / يقرض"
+    },
+    {
+        "artikel": "die",
+        "word": "Krankenschwester",
+        "meaning": "الممرضة"
+    },
+    {
+        "artikel": "",
+        "word": "kalt",
+        "meaning": "بارد"
+    },
+    {
+        "artikel": "das",
+        "word": "Abendessen",
+        "meaning": "وجبة العشاء"
+    },
+    {
+        "artikel": "die",
+        "word": "Lippe",
+        "meaning": "الشفاه"
+    },
+    {
+        "artikel": "",
+        "word": "lösen",
+        "meaning": "يحل"
+    },
+    {
+        "artikel": "die",
+        "word": "Freude",
+        "meaning": "السعادة / الفرح"
+    },
+    {
+        "artikel": "der",
+        "word": "Anfang",
+        "meaning": "البداية"
+    },
+    {
+        "artikel": "",
+        "word": "zustimmen",
+        "meaning": "يوافق / يتفق مع"
+    },
+    {
+        "artikel": "die",
+        "word": "Batterie",
+        "meaning": "البطارية"
+    },
+    {
+        "artikel": "der",
+        "word": "Architekt",
+        "meaning": "المهندس المعماري"
+    },
+    {
+        "artikel": "die",
+        "word": "Gelegenheit",
+        "meaning": "الفرصة"
+    },
+    {
+        "artikel": "",
+        "word": "Griechenland",
+        "meaning": "اليونان"
+    },
+    {
+        "artikel": "der",
+        "word": "Minister",
+        "meaning": "الوزير"
+    },
+    {
+        "artikel": "die",
+        "word": "Tüte",
+        "meaning": "الكيس (ورقي / بلاستيكي)"
+    },
+    {
+        "artikel": "die",
+        "word": "Grenzen",
+        "meaning": "الحدود"
+    },
+    {
+        "artikel": "die",
+        "word": "Regierung",
+        "meaning": "الحكومة"
+    },
+    {
+        "artikel": "die",
+        "word": "Bank",
+        "meaning": "البنك"
+    },
+    {
+        "artikel": "die",
+        "word": "Entscheidung",
+        "meaning": "القرار"
+    },
+    {
+        "artikel": "die",
+        "word": "Ente",
+        "meaning": "البطة"
+    },
+    {
+        "artikel": "die",
+        "word": "Schülerin",
+        "meaning": "الطالبة"
+    },
+    {
+        "artikel": "der",
+        "word": "Sieger",
+        "meaning": "الفائز"
+    },
+    {
+        "artikel": "",
+        "word": "ersetzen",
+        "meaning": "يستبدل"
+    },
+    {
+        "artikel": "die",
+        "word": "Aufgabe",
+        "meaning": "المهمة / الواجب"
+    },
+    {
+        "artikel": "der",
+        "word": "Leiter",
+        "meaning": "السلم"
+    },
+    {
+        "artikel": "das",
+        "word": "Publikum",
+        "meaning": "الجمهور"
+    },
+    {
+        "artikel": "",
+        "word": "Juni",
+        "meaning": "يونيو / حزيران"
+    },
+    {
+        "artikel": "das",
+        "word": "Alter",
+        "meaning": "العمر / السن"
+    },
+    {
+        "artikel": "der",
+        "word": "Witz",
+        "meaning": "النكتة"
+    },
+    {
+        "artikel": "der",
+        "word": "Zoll",
+        "meaning": "الجمارك"
+    },
+    {
+        "artikel": "das",
+        "word": "Haustier",
+        "meaning": "الحيوان الأليف"
+    },
+    {
+        "artikel": "die",
+        "word": "Zunge",
+        "meaning": "اللسان"
+    },
+    {
+        "artikel": "der",
+        "word": "Zufall",
+        "meaning": "الصدفة"
+    },
+    {
+        "artikel": "die",
+        "word": "Österreich",
+        "meaning": "النمسا"
+    },
+    {
+        "artikel": "",
+        "word": "bald",
+        "meaning": "قريباً"
+    },
+    {
+        "artikel": "die",
+        "word": "Ernte",
+        "meaning": "المحصول"
+    },
+    {
+        "artikel": "der",
+        "word": "Sänger",
+        "meaning": "المغني"
+    },
+    {
+        "artikel": "die",
+        "word": "Kneipe",
+        "meaning": "الحانة"
+    },
+    {
+        "artikel": "",
+        "word": "nass",
+        "meaning": "مبلل"
+    },
+    {
+        "artikel": "",
+        "word": "schwanger",
+        "meaning": "حامل"
+    },
+    {
+        "artikel": "",
+        "word": "sich sorgen",
+        "meaning": "يقلق / يحزن"
+    },
+    {
+        "artikel": "die",
+        "word": "Feuerwehr",
+        "meaning": "رجال الإطفاء"
+    },
+    {
+        "artikel": "",
+        "word": "immer",
+        "meaning": "دائماً"
+    },
+    {
+        "artikel": "",
+        "word": "nun",
+        "meaning": "الآن"
+    },
+    {
+        "artikel": "",
+        "word": "böse",
+        "meaning": "شرير"
+    },
+    {
+        "artikel": "das",
+        "word": "Thema",
+        "meaning": "الموضوع"
+    },
+    {
+        "artikel": "",
+        "word": "dick",
+        "meaning": "سمين"
+    },
+    {
+        "artikel": "",
+        "word": "Kämpfen",
+        "meaning": "يكافح / يقاوم"
+    },
+    {
+        "artikel": "die",
+        "word": "Einsamkeit",
+        "meaning": "الوحدة"
+    },
+    {
+        "artikel": "das",
+        "word": "Märchen",
+        "meaning": "القصة الخيالية"
+    },
+    {
+        "artikel": "die",
+        "word": "Geldstrafe",
+        "meaning": "الغرامة المالية"
+    },
+    {
+        "artikel": "die",
+        "word": "Erfindung",
+        "meaning": "الإختراع"
+    },
+    {
+        "artikel": "der",
+        "word": "Kreis",
+        "meaning": "الدائرة"
+    },
+    {
+        "artikel": "das",
+        "word": "Rätsel",
+        "meaning": "اللغز"
+    },
+    {
+        "artikel": "die",
+        "word": "Etage",
+        "meaning": "الطابق"
+    },
+    {
+        "artikel": "der",
+        "word": "Arbeitgeber",
+        "meaning": "صاحب العمل"
+    },
+    {
+        "artikel": "das",
+        "word": "Feuerzeug",
+        "meaning": "الولاعة"
+    },
+    {
+        "artikel": "der",
+        "word": "Bundestag",
+        "meaning": "البرلمان الألماني"
+    },
+    {
+        "artikel": "das",
+        "word": "Gepäck",
+        "meaning": "الأمتعة"
+    },
+    {
+        "artikel": "der",
+        "word": "Flüchtling",
+        "meaning": "اللاجئ"
+    },
+    {
+        "artikel": "die",
+        "word": "Voraussetzung",
+        "meaning": "الشرط"
+    },
+    {
+        "artikel": "das",
+        "word": "Gespräch",
+        "meaning": "المحادثة"
+    },
+    {
+        "artikel": "das",
+        "word": "Stipendium",
+        "meaning": "المنحة الدراسية"
+    },
+    {
+        "artikel": "das",
+        "word": "Geschenk",
+        "meaning": "الهدية"
+    },
+    {
+        "artikel": "die",
+        "word": "Waschmaschine",
+        "meaning": "آلة الغسيل"
+    },
+    {
+        "artikel": "das",
+        "word": "Gefühl",
+        "meaning": "الشعور"
+    },
+    {
+        "artikel": null,
+        "word": "beten",
+        "meaning": "يصلي"
+    },
+    {
+        "artikel": "die",
+        "word": "Erinnerung",
+        "meaning": "الذكرى"
+    },
+    {
+        "artikel": null,
+        "word": "üben",
+        "meaning": "يتمرن"
+    },
+    {
+        "artikel": "die",
+        "word": "Brille",
+        "meaning": "النظارات"
+    },
+    {
+        "artikel": "die",
+        "word": "Zahnpasta",
+        "meaning": "معجون الأسنان"
+    },
+    {
+        "artikel": "die",
+        "word": "Kerze",
+        "meaning": "الشمعة"
+    },
+    {
+        "artikel": "die",
+        "word": "Wand",
+        "meaning": "الحائط"
+    },
+    {
+        "artikel": null,
+        "word": "stehlen",
+        "meaning": "يسرق"
+    },
+    {
+        "artikel": "die",
+        "word": "Korruption",
+        "meaning": "الفساد / الرشوة"
+    },
+    {
+        "artikel": null,
+        "word": "rosa",
+        "meaning": "وردي"
+    },
+    {
+        "artikel": "der",
+        "word": "Helm",
+        "meaning": "الخودة"
+    },
+    {
+        "artikel": null,
+        "word": "bestätigen",
+        "meaning": "يؤكد"
+    },
+    {
+        "artikel": "die",
+        "word": "Aprikose",
+        "meaning": "المشمش"
+    },
+    {
+        "artikel": "der",
+        "word": "Chef",
+        "meaning": "الرئيس / المدير"
+    },
+    {
+        "artikel": null,
+        "word": "lächeln",
+        "meaning": "يبتسم"
+    },
+    {
+        "artikel": "die",
+        "word": "Arbeitslosigkeit",
+        "meaning": "البطالة"
+    },
+    {
+        "artikel": null,
+        "word": "zeichnen",
+        "meaning": "يرسم"
+    },
+    {
+        "artikel": "der",
+        "word": "Einwohner",
+        "meaning": "السكان"
+    },
+    {
+        "artikel": "der",
+        "word": "Maurer",
+        "meaning": "البناء"
+    },
+    {
+        "artikel": null,
+        "word": "sich duschen",
+        "meaning": "يأخذ دشا"
+    },
+    {
+        "artikel": "der",
+        "word": "Verkäufer",
+        "meaning": "البائع"
+    },
+    {
+        "artikel": null,
+        "word": "ausgeben",
+        "meaning": "ينفق"
+    },
+    {
+        "artikel": "die",
+        "word": "Vergangenheit",
+        "meaning": "الماضي"
+    },
+    {
+        "artikel": "die",
+        "word": "Armut",
+        "meaning": "الفقر"
+    },
+    {
+        "artikel": "der",
+        "word": "Ausweis",
+        "meaning": "بطاقة الهوية"
+    },
+    {
+        "artikel": null,
+        "word": "füttern",
+        "meaning": "يطعم"
+    },
+    {
+        "artikel": null,
+        "word": "wunderbar",
+        "meaning": "رائع / مذهل"
+    },
+    {
+        "artikel": null,
+        "word": "bar bezahlen",
+        "meaning": "يدفع نقدا"
+    },
+    {
+        "artikel": "der",
+        "word": "Koch",
+        "meaning": "الطباخ"
+    },
+    {
+        "artikel": "die",
+        "word": "Palme",
+        "meaning": "النخلة"
+    },
+    {
+        "artikel": null,
+        "word": "Mai",
+        "meaning": "مايو / أيار"
+    },
+    {
+        "artikel": null,
+        "word": "teilen",
+        "meaning": "يتشارك / يقسم"
+    },
+    {
+        "artikel": null,
+        "word": "gefallen",
+        "meaning": "يعجب"
+    },
+    {
+        "artikel": "die",
+        "word": "Tasse",
+        "meaning": "الفنجان"
+    },
+    {
+        "artikel": null,
+        "word": "kostenlos",
+        "meaning": "مجاني"
+    },
+    {
+        "artikel": null,
+        "word": "verheiratet",
+        "meaning": "متزوج"
+    },
+    {
+        "artikel": "das",
+        "word": "Geheimnis",
+        "meaning": "السر"
+    },
+    {
+        "artikel": null,
+        "word": "arm",
+        "meaning": "فقير"
+    },
+    {
+        "artikel": null,
+        "word": "aufstehen",
+        "meaning": "يستيقظ"
+    },
+    {
+        "artikel": "der",
+        "word": "Bart",
+        "meaning": "اللحية"
+    },
+    {
+        "artikel": "die",
+        "word": "Freiheit",
+        "meaning": "الحرية"
+    },
+    {
+        "artikel": "das",
+        "word": "Gefängnis",
+        "meaning": "السجن"
+    },
+    {
+        "artikel": "die",
+        "word": "Ziege",
+        "meaning": "الماعز"
+    },
+    {
+        "artikel": "das",
+        "word": "Recht",
+        "meaning": "الحق / القانون"
+    },
+    {
+        "artikel": "der",
+        "word": "Schal",
+        "meaning": "الوشاح"
+    },
+    {
+        "artikel": "der",
+        "word": "Gast",
+        "meaning": "الضيف"
+    },
+    {
+        "artikel": "das",
+        "word": "Benzin",
+        "meaning": "البنزين"
+    },
+    {
+        "artikel": null,
+        "word": "tot",
+        "meaning": "ميت"
+    },
+    {
+        "artikel": null,
+        "word": "besonders",
+        "meaning": "خصوصا"
+    },
+    {
+        "artikel": "die",
+        "word": "Partei",
+        "meaning": "الحزب"
+    },
+    {
+        "artikel": "der",
+        "word": "Arbeiter",
+        "meaning": "العامل"
+    },
+    {
+        "artikel": "der",
+        "word": "Gegner",
+        "meaning": "الخصم / المنافس"
+    },
+    {
+        "artikel": "der",
+        "word": "Wert",
+        "meaning": "القيمة"
+    },
+    {
+        "artikel": null,
+        "word": "gefährlich",
+        "meaning": "خطر"
+    },
+    {
+        "artikel": "das",
+        "word": "Gegenteil",
+        "meaning": "العكس"
+    },
+    {
+        "artikel": "das",
+        "word": "Boot",
+        "meaning": "القارب / الزورق"
+    },
+    {
+        "artikel": null,
+        "word": "betrunken",
+        "meaning": "سكران"
+    },
+    {
+        "artikel": null,
+        "word": "Februar",
+        "meaning": "فبراير / شباط"
+    },
+    {
+        "artikel": "der",
+        "word": "Arm",
+        "meaning": "الذراع"
+    },
+    {
+        "artikel": "die",
+        "word": "Stimme",
+        "meaning": "الصوت"
+    },
+    {
+        "artikel": null,
+        "word": "genau",
+        "meaning": "بالضبط / تماما"
+    },
+    {
+        "artikel": "das",
+        "word": "Gerät",
+        "meaning": "الجهاز / الآلة"
+    },
+    {
+        "artikel": "der",
+        "word": "Schatten",
+        "meaning": "الظل"
+    },
+    {
+        "artikel": "der",
+        "word": "Zeuge",
+        "meaning": "الشاهد"
+    },
+    {
+        "artikel": null,
+        "word": "schade",
+        "meaning": "للأسف"
+    },
+    {
+        "artikel": "die",
+        "word": "Nudel",
+        "meaning": "المكرونة"
+    },
+    {
+        "artikel": null,
+        "word": "reich",
+        "meaning": "غني"
+    },
+    {
+        "artikel": "das",
+        "word": "Salz",
+        "meaning": "الملح"
+    },
+    {
+        "artikel": null,
+        "word": "sich fühlen",
+        "meaning": "يحس / يشعر"
+    },
+    {
+        "artikel": null,
+        "word": "pflegen",
+        "meaning": "يعتني / يمرض"
+    },
+    {
+        "artikel": null,
+        "word": "überzeugen",
+        "meaning": "يقنع"
+    },
+    {
+        "artikel": "die",
+        "word": "Botschaft",
+        "meaning": "السفارة"
+    },
+    {
+        "artikel": null,
+        "word": "Oktober",
+        "meaning": "أكتوبر / تشرين الأول"
+    },
+    {
+        "artikel": "der",
+        "word": "Teller",
+        "meaning": "الصحن"
+    },
+    {
+        "artikel": null,
+        "word": "trocken",
+        "meaning": "جاف"
+    },
+    {
+        "artikel": "der",
+        "word": "Fleck",
+        "meaning": "البقعة / الطخة"
+    },
+    {
+        "artikel": "die",
+        "word": "Soße",
+        "meaning": "الصلصة"
+    },
+    {
+        "artikel": "die",
+        "word": "Flucht",
+        "meaning": "الهروب"
+    },
+    {
+        "artikel": "die",
+        "word": "Tastatur",
+        "meaning": "لوحة المفاتيح"
+    },
+    {
+        "artikel": "der",
+        "word": "Hai",
+        "meaning": "سمك القرش"
+    },
+    {
+        "artikel": null,
+        "word": "angreifen",
+        "meaning": "يهاجم"
+    },
+    {
+        "artikel": "die",
+        "word": "Behinderung",
+        "meaning": "الإعاقة"
+    },
+    {
+        "artikel": "der",
+        "word": "Bürger",
+        "meaning": "المواطن"
+    },
+    {
+        "artikel": null,
+        "word": "schlau",
+        "meaning": "ماكر"
+    },
+    {
+        "artikel": "der",
+        "word": "Park",
+        "meaning": "المنتزه"
+    },
+    {
+        "artikel": "der",
+        "word": "Kuchen",
+        "meaning": "الكعكة"
+    },
+    {
+        "artikel": null,
+        "word": "erfolgreich",
+        "meaning": "ناجح"
+    },
+    {
+        "artikel": "der",
+        "word": "Kugelschreiber",
+        "meaning": "قلم الحبر"
+    },
+    {
+        "artikel": "die",
+        "word": "Fabrik",
+        "meaning": "المصنع"
+    },
+    {
+        "artikel": "das",
+        "word": "Vertrauen",
+        "meaning": "الثقة"
+    },
+    {
+        "artikel": "die",
+        "word": "Währung",
+        "meaning": "العملة"
+    },
+    {
+        "artikel": "die",
+        "word": "Festplatte",
+        "meaning": "القرص الصلب"
+    },
+    {
+        "artikel": "das",
+        "word": "Doppelzimmer",
+        "meaning": "غرفة لشخصين"
+    },
+    {
+        "artikel": null,
+        "word": "umarmen",
+        "meaning": "يعانق"
+    },
+    {
+        "artikel": "die",
+        "word": "Gewohnheit",
+        "meaning": "العادة"
+    },
+    {
+        "artikel": "die",
+        "word": "Insel",
+        "meaning": "الجزيرة"
+    },
+    {
+        "artikel": "der",
+        "word": "Lift",
+        "meaning": "المصعد"
+    },
+    {
+        "artikel": null,
+        "word": "googeln",
+        "meaning": "يبحث في محرك البحث جوجل"
+    },
+    {
+        "artikel": "die",
+        "word": "Welle",
+        "meaning": "الموجة"
+    },
+    {
+        "artikel": "",
+        "word": "gelb",
+        "meaning": "أصفر"
+    },
+    {
+        "artikel": "",
+        "word": "kennenlernen",
+        "meaning": "يتعرف"
+    },
+    {
+        "artikel": "",
+        "word": "vermuten",
+        "meaning": "يخمن"
+    },
+    {
+        "artikel": "",
+        "word": "tanzen",
+        "meaning": "يرقص"
+    },
+    {
+        "artikel": "",
+        "word": "teilnehmen",
+        "meaning": "يشارك في"
+    },
+    {
+        "artikel": "",
+        "word": "überweisen",
+        "meaning": "يحّول المال"
+    },
+    {
+        "artikel": "",
+        "word": "frech",
+        "meaning": "وقح"
+    },
+    {
+        "artikel": "",
+        "word": "niesen",
+        "meaning": "يعطس"
+    },
+    {
+        "artikel": "",
+        "word": "guten Appetit",
+        "meaning": "شهية طيبة"
+    },
+    {
+        "artikel": "",
+        "word": "lecker",
+        "meaning": "لذيذ"
+    },
+    {
+        "artikel": "der",
+        "word": "Fußgänger",
+        "meaning": "الرجل"
+    },
+    {
+        "artikel": "die",
+        "word": "Woche",
+        "meaning": "الأسبوع"
+    },
+    {
+        "artikel": "",
+        "word": "ablehnen",
+        "meaning": "يرفض"
+    },
+    {
+        "artikel": "das",
+        "word": "Klima",
+        "meaning": "المناخ"
+    },
+    {
+        "artikel": "",
+        "word": "es tut mir Leid",
+        "meaning": "أنا آسف"
+    },
+    {
+        "artikel": "der",
+        "word": "Affe",
+        "meaning": "القرد"
+    },
+    {
+        "artikel": "das",
+        "word": "Leben",
+        "meaning": "الحياة"
+    },
+    {
+        "artikel": "der",
+        "word": "Flohmarkt",
+        "meaning": "سوق البضائع المستعملة"
+    },
+    {
+        "artikel": "",
+        "word": "Montag",
+        "meaning": "الإثنين"
+    },
+    {
+        "artikel": "der",
+        "word": "Fahrer",
+        "meaning": "السائق"
+    },
+    {
+        "artikel": "der",
+        "word": "Komponist",
+        "meaning": "الملحن"
+    },
+    {
+        "artikel": "die",
+        "word": "Ernährung",
+        "meaning": "التغذية"
+    },
+    {
+        "artikel": "der",
+        "word": "Gipfel",
+        "meaning": "القمة"
+    },
+    {
+        "artikel": "",
+        "word": "gesund",
+        "meaning": "معافى / صحي"
+    },
+    {
+        "artikel": "",
+        "word": "scheu",
+        "meaning": "خجول"
+    },
+    {
+        "artikel": "",
+        "word": "ich habe Hunger",
+        "meaning": "أنا جائع"
+    },
+    {
+        "artikel": "der",
+        "word": "Duft",
+        "meaning": "الرائحة"
+    },
+    {
+        "artikel": "die",
+        "word": "Party",
+        "meaning": "الحفلة"
+    },
+    {
+        "artikel": "der",
+        "word": "Schmerz",
+        "meaning": "الألم"
+    },
+    {
+        "artikel": "",
+        "word": "August",
+        "meaning": "غشت / أغسطس"
+    },
+    {
+        "artikel": "der",
+        "word": "Frosch",
+        "meaning": "الضفدع"
+    },
+    {
+        "artikel": "der",
+        "word": "Krebs",
+        "meaning": "السرطان"
+    },
+    {
+        "artikel": "das",
+        "word": "Geräusch",
+        "meaning": "الصوت"
+    },
+    {
+        "artikel": "das",
+        "word": "Fieber",
+        "meaning": "الحمى"
+    },
+    {
+        "artikel": "",
+        "word": "übersetzen",
+        "meaning": "يترجم"
+    },
+    {
+        "artikel": "der",
+        "word": "Lohn",
+        "meaning": "الراتب / الأجر"
+    },
+    {
+        "artikel": "",
+        "word": "günstig",
+        "meaning": "ملائم"
+    },
+    {
+        "artikel": "der",
+        "word": "Stau",
+        "meaning": "ازدحام المرور"
+    },
+    {
+        "artikel": "",
+        "word": "stur",
+        "meaning": "عنيد"
+    },
+    {
+        "artikel": "",
+        "word": "Russland",
+        "meaning": "روسيا"
+    },
+    {
+        "artikel": "der",
+        "word": "Journalist",
+        "meaning": "الصحفي"
+    },
+    {
+        "artikel": "der",
+        "word": "Ingenieur",
+        "meaning": "المهندس"
+    },
+    {
+        "artikel": "die",
+        "word": "Waffe",
+        "meaning": "السلاح"
+    },
+    {
+        "artikel": "die",
+        "word": "Steuer",
+        "meaning": "الضريبة"
+    },
+    {
+        "artikel": "die",
+        "word": "Hitze",
+        "meaning": "الحرارة"
+    },
+    {
+        "artikel": "",
+        "word": "öffentlich",
+        "meaning": "عمومي"
+    },
+    {
+        "artikel": "der",
+        "word": "Hafen",
+        "meaning": "الميناء"
+    },
+    {
+        "artikel": "",
+        "word": "verzeihen",
+        "meaning": "يسامح"
+    },
+    {
+        "artikel": "",
+        "word": "beliebt",
+        "meaning": "محبوب / شعبي"
+    },
+    {
+        "artikel": "die",
+        "word": "Hälfte",
+        "meaning": "النصف"
+    },
+    {
+        "artikel": "der",
+        "word": "Zwilling",
+        "meaning": "التوأم"
+    },
+    {
+        "artikel": "",
+        "word": "husten",
+        "meaning": "يسعل"
+    },
+    {
+        "artikel": "der",
+        "word": "Kamin",
+        "meaning": "المدفأة"
+    },
+    {
+        "artikel": "das",
+        "word": "Wochenende",
+        "meaning": "نهاية الأسبوع"
+    },
+    {
+        "artikel": "",
+        "word": "müde",
+        "meaning": "متعب"
+    },
+    {
+        "artikel": "",
+        "word": "peinlich",
+        "meaning": "محرج"
+    },
+    {
+        "artikel": "",
+        "word": "stark",
+        "meaning": "قوي"
+    },
+    {
+        "artikel": "die",
+        "word": "Tabelle",
+        "meaning": "الجدول"
+    },
+    {
+        "artikel": "",
+        "word": "werfen",
+        "meaning": "يرمي"
+    },
+    {
+        "artikel": "",
+        "word": "erziehen",
+        "meaning": "يربي / يرفع"
+    },
+    {
+        "artikel": "die",
+        "word": "Erkältung",
+        "meaning": "نزلة برد"
+    },
+    {
+        "artikel": "",
+        "word": "ich habe Durst",
+        "meaning": "أنا عطشان"
+    },
+    {
+        "artikel": "",
+        "word": "Sonntag",
+        "meaning": "الأحد"
+    },
+    {
+        "artikel": "",
+        "word": "deutlich",
+        "meaning": "واضح"
+    },
+    {
+        "artikel": "das",
+        "word": "Konsulat",
+        "meaning": "القنصلية"
+    },
+    {
+        "artikel": "",
+        "word": "außer Betrieb",
+        "meaning": "عاطل / خارج الخدمة"
+    },
+    {
+        "artikel": "",
+        "word": "alkoholfrei",
+        "meaning": "خالٍ من الكحول"
+    },
+    {
+        "artikel": "der",
+        "word": "Vorschlag",
+        "meaning": "التمساح"
+    },
+    {
+        "artikel": "das",
+        "word": "Bein",
+        "meaning": "الساق"
+    },
+    {
+        "artikel": "die",
+        "word": "Kanne",
+        "meaning": "الإبريق"
+    },
+    {
+        "artikel": "die",
+        "word": "Bedeutung",
+        "meaning": "المعنى"
+    },
+    {
+        "artikel": "der",
+        "word": "Wein",
+        "meaning": "النبيذ"
+    },
+    {
+        "artikel": "der",
+        "word": "Bär",
+        "meaning": "الدب"
+    },
+    {
+        "artikel": "",
+        "word": "bitter",
+        "meaning": "مر"
+    },
+    {
+        "artikel": "",
+        "word": "unmöglich",
+        "meaning": "مستحيل"
+    },
+    {
+        "artikel": "",
+        "word": "aussehen",
+        "meaning": "يبدو"
+    },
+    {
+        "artikel": "die",
+        "word": "Schönheit",
+        "meaning": "الجمال"
+    },
+    {
+        "artikel": "das",
+        "word": "Ende",
+        "meaning": "النهاية"
+    },
+    {
+        "artikel": "die",
+        "word": "Autobahn",
+        "meaning": "الطريق السريع"
+    },
+    {
+        "artikel": "",
+        "word": "drücken",
+        "meaning": "يضغط"
+    },
+    {
+        "artikel": "",
+        "word": "faul",
+        "meaning": "كسلان"
+    },
+    {
+        "artikel": "der",
+        "word": "Ausflug",
+        "meaning": "الجولة / النزهة"
+    },
+    {
+        "artikel": "die",
+        "word": "Träne",
+        "meaning": "الدمعة"
+    },
+    {
+        "artikel": "die",
+        "word": "Brücke",
+        "meaning": "الجسر"
+    },
+    {
+        "artikel": "der",
+        "word": "Bauch",
+        "meaning": "البطن"
+    },
+    {
+        "artikel": "die",
+        "word": "Ankunft",
+        "meaning": "الوصول"
+    },
+    {
+        "artikel": "",
+        "word": "hoch",
+        "meaning": "عالٍ / مرتفع"
+    },
+    {
+        "artikel": "",
+        "word": "aufräumenbegleite",
+        "meaning": "يرتب / ينظف"
+    },
+    {
+        "artikel": "",
+        "word": "begleiten",
+        "meaning": "يرافق"
+    },
+    {
+        "artikel": "der",
+        "word": "Hals",
+        "meaning": "العنق / الحنجرة"
+    },
+    {
+        "artikel": "",
+        "word": "leer",
+        "meaning": "فارغ"
+    },
+    {
+        "artikel": "das",
+        "word": "Kissen",
+        "meaning": "الوسادة"
+    },
+    {
+        "artikel": "",
+        "word": "quatschen",
+        "meaning": "يثرثر"
+    },
+    {
+        "artikel": "",
+        "word": "sich ausruhen",
+        "meaning": "يرتاح / يسترخي"
+    },
+    {
+        "artikel": "der",
+        "word": "Ausländer",
+        "meaning": "الأجنبي"
+    },
+    {
+        "artikel": "",
+        "word": "genug",
+        "meaning": "كافٍ"
+    },
+    {
+        "artikel": "",
+        "word": "rechnen",
+        "meaning": "يحسب"
+    },
+    {
+        "artikel": "die",
+        "word": "Wolle",
+        "meaning": "الصوف"
+    },
+    {
+        "artikel": "",
+        "word": "sich konzentrieren",
+        "meaning": "يركز"
+    },
+    {
+        "artikel": "der",
+        "word": "Krankenwagen",
+        "meaning": "سيارة الإسعاف"
+    },
+    {
+        "artikel": "die",
+        "word": "Fläche",
+        "meaning": "المساحة"
+    },
+    {
+        "artikel": "",
+        "word": "brechen",
+        "meaning": "يكسر"
+    },
+    {
+        "artikel": "der",
+        "word": "Tee",
+        "meaning": "الشاي"
+    },
+    {
+        "artikel": "",
+        "word": "sitzen",
+        "meaning": "يجلس"
+    },
+    {
+        "artikel": "der",
+        "word": "Soldat",
+        "meaning": "الجندي"
+    },
+    {
+        "artikel": "die",
+        "word": "Werbung",
+        "meaning": "الدعاية / الإعلان"
+    },
+    {
+        "artikel": "der",
+        "word": "Fotoapparat",
+        "meaning": "آلة التصوير"
+    },
+    {
+        "artikel": "",
+        "word": "natürlich",
+        "meaning": "طبيعي / طبعاً"
+    },
+    {
+        "artikel": "",
+        "word": "begeistert",
+        "meaning": "متحمس"
+    },
+    {
+        "artikel": "die",
+        "word": "Flöte",
+        "meaning": "الناي"
+    },
+    {
+        "artikel": "",
+        "word": "notwendig",
+        "meaning": "ضروري / لازم"
+    },
+    {
+        "artikel": "die",
+        "word": "Oper",
+        "meaning": "الأوبرا"
+    },
+    {
+        "artikel": "die",
+        "word": "Panne",
+        "meaning": "العطب"
+    },
+    {
+        "artikel": "der",
+        "word": "Honig",
+        "meaning": "العسل"
+    },
+    {
+        "artikel": "",
+        "word": "nähen",
+        "meaning": "يخيط"
+    },
+    {
+        "artikel": "der",
+        "word": "Partner",
+        "meaning": "الشريك"
+    },
+    {
+        "artikel": "der",
+        "word": "Respekt",
+        "meaning": "الاحترام"
+    },
+    {
+        "artikel": "die",
+        "word": "Scheidung",
+        "meaning": "الطلاق"
+    },
+    {
+        "artikel": "die",
+        "word": "Tafel",
+        "meaning": "السبورة"
+    },
+    {
+        "artikel": "das",
+        "word": "Dach",
+        "meaning": "السقف"
+    },
+    {
+        "artikel": "der",
+        "word": "Prinz",
+        "meaning": "الأمير"
+    },
+    {
+        "artikel": "",
+        "word": "optimistisch",
+        "meaning": "متفائل"
+    },
+    {
+        "artikel": "",
+        "word": "ernsthaft",
+        "meaning": "جاد / بجدية"
+    },
+    {
+        "artikel": "die",
+        "word": "Brieftasche",
+        "meaning": "محفظة النقود"
+    },
+    {
+        "artikel": "der",
+        "word": "Treffpunkt",
+        "meaning": "مكان اللقاء"
+    },
+    {
+        "artikel": "das",
+        "word": "Ufer",
+        "meaning": "الضفة"
+    },
+    {
+        "artikel": "das",
+        "word": "Handtuch",
+        "meaning": "المنشفة"
+    },
+    {
+        "artikel": "die",
+        "word": "Freizeit",
+        "meaning": "وقت الفراغ"
+    },
+    {
+        "artikel": "der",
+        "word": "Umweltschutz",
+        "meaning": "حماية البيئة"
+    },
+    {
+        "artikel": "der",
+        "word": "Verbrecher",
+        "meaning": "المجرم"
+    },
+    {
+        "artikel": "das",
+        "word": "Rindfleisch",
+        "meaning": "لحم البقر"
+    },
+    {
+        "artikel": "der",
+        "word": "Versuch",
+        "meaning": "المحاولة"
+    },
+    {
+        "artikel": "das",
+        "word": "Seniorenheim",
+        "meaning": "دار العجزة"
+    },
+    {
+        "artikel": "die",
+        "word": "Schildkröte",
+        "meaning": "السلحفاة"
+    },
+    {
+        "artikel": "der",
+        "word": "Übersetzer",
+        "meaning": "المترجم"
+    },
+    {
+        "artikel": "der",
+        "word": "Stift",
+        "meaning": "القلم"
+    },
+    {
+        "artikel": "das",
+        "word": "Telefon",
+        "meaning": "الهاتف"
+    },
+    {
+        "artikel": "der",
+        "word": "Computer",
+        "meaning": "الحاسوب"
+    },
+    {
+        "Deutsch": "das Gehalt",
+        "Arabisch": "الراتب"
+    },
+    {
+        "artikel": "der",
+        "word": "Vogel",
+        "meaning": "الطائر"
+    },
+    {
+        "artikel": "",
+        "word": "malen",
+        "meaning": "يرسم"
+    },
+    {
+        "artikel": "das",
+        "word": "Spiel",
+        "meaning": "اللعبة"
+    },
+    {
+        "artikel": "der",
+        "word": "Briefkasten",
+        "meaning": "صندوق البريد"
+    },
+    {
+        "artikel": "der",
+        "word": "Rucksack",
+        "meaning": "حقيبة الظهر"
+    },
+    {
+        "artikel": "die",
+        "word": "Erfahrung",
+        "meaning": "التجربة"
+    },
+    {
+        "artikel": "das",
+        "word": "Instrument",
+        "meaning": "الآلة الموسيقية"
+    },
+    {
+        "artikel": "",
+        "word": "untersuchen",
+        "meaning": "يفحص"
+    },
+    {
+        "artikel": "der",
+        "word": "Bewerber",
+        "meaning": "المتقدم (لوظيفة)"
+    },
+    {
+        "artikel": "die",
+        "word": "Stelle",
+        "meaning": "الموقع/الوظيفة"
+    },
+    {
+        "artikel": "",
+        "word": "kündigen",
+        "meaning": "يستقيل"
+    },
+    {
+        "artikel": "",
+        "word": "stattfinden",
+        "meaning": "يحدث/يتم"
+    },
+    {
+        "artikel": "die",
+        "word": "Kultur",
+        "meaning": "الثقافة"
+    },
+    {
+        "artikel": "",
+        "word": "beenden",
+        "meaning": "ينهي"
+    },
+    {
+        "artikel": "das",
+        "word": "Verhalten",
+        "meaning": "السلوك"
+    },
+    {
+        "artikel": "",
+        "word": "diskutieren",
+        "meaning": "يناقش"
+    },
+    {
+        "artikel": "die",
+        "word": "Ehrlichkeit",
+        "meaning": "الأمانة"
+    }
+]

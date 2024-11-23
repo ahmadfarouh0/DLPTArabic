@@ -1,0 +1,131 @@
+<html lang="ar">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>معاني الكلمات</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                text-align: center;
+                background: #1a1a1a;
+                display: flex;
+                justify-content: center;
+                align-content: center;
+                flex-wrap: wrap;
+            }
+            .card {
+                background: #202020;
+                border: 1px solid #383838;
+                border-radius: 15px;
+                padding: 50px;
+                width: 400px;
+                margin: auto;
+                /* margin-top: 50px; */
+            }
+            .word {
+                color: #ffffff;
+                font-size: 24px;
+                margin-bottom: 20px;
+                height: 80px;
+            }
+            .meaning {
+                margin-top: 10px;
+                display: none;
+                font-size: 30px;
+                color: #e0e0e0;
+            }
+            button {
+                padding: 10px 20px;
+                font-size: 16px;
+                cursor: pointer;
+                margin: 5px;
+                background: #f9a825;
+                color: #fff;
+                border: 1px solid #b0bec5;
+                border-radius: 15px;
+                transition: background-color 0.3s ease, box-shadow 0.3s ease;
+            }
+            button:hover {
+                background-color: #ffc107;
+                box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+                cursor: pointer;
+            }
+
+            .art_der {
+                color: #1f78b4;
+            }
+
+            .art_die {
+                color: #d32f2f;
+            }
+
+            .art_das {
+                color: #3c9d4a;
+            }
+
+            .card {
+                position: relative;
+            }
+
+            .card:before,
+            .card:after {
+                content: "";
+                position: absolute;
+                left: -2px;
+                top: -2px;
+                background: linear-gradient(
+                    45deg,
+                    #ffc107,
+                    #f9a825,
+                    #ffc107,
+                    #f9a825,
+                    #ffc107,
+                    #f9a825,
+                    #ffc107,
+                    #f9a825,
+                    #ffc107,
+                    #f9a825
+                );
+                background-size: 400%;
+                width: calc(100% + 4px);
+                height: calc(100% + 4px);
+                z-index: -1;
+                animation: steam 50s linear infinite;
+                border-radius: 15px;
+            }
+
+            @keyframes steam {
+                0% {
+                    background-position: 0 0;
+                }
+                50% {
+                    background-position: 400% 0;
+                }
+                100% {
+                    background-position: 0 0;
+                }
+            }
+
+            .card:after {
+                filter: blur(50px);
+            }
+        </style>
+    </head>
+    <body>
+        <div class="card">
+            <div class="word">
+                <span id="artikel"></span>
+                <span id="word">loading...</span>
+                <br />
+                <div class="meaning" id="meaning">...</div>
+            </div>
+
+            <!-- <button onclick="showMeaning()">عرض المعنى</button> -->
+            <!-- <button onclick="displayNewWord()">كلمة جديدة</button> -->
+            <button id="btnShowMeaning">عرض المعنى</button>
+            <button id="btnNewWord">كلمة جديدة</button>
+        </div>
+
+        <script src="script.js"></script>
+    </body>
+</html>
