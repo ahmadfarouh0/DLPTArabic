@@ -10,7 +10,7 @@ let words = [];
 
 let currentWordIndex = 0;
 
-fetch("wordsn.json")
+fetch("realData.json")
     .then((response) => response.json())
     .then((data) => {
         words = data;
